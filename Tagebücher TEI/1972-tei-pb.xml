@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="de">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Tagebuch von 1972</title>
+                <author ref="http://d-nb.info/gnd/119308649">
+                    <forename>Karl</forename>
+                    <surname>Wiesinger</surname>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://stifterhaus.at" ref="http://d-nb.info/gnd/1066114358"
+                        >Adalbert-Stifter-Institut des Landes Oberösterreich</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://informationsmodellierung.uni-graz.at"
+                        ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung -
+                        Austrian Centre for Digital Humanities, Karl-Franzens-Universität
+                        Graz</orgName>
+                </authority>
+                <distributor>
+                    <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset
+                        Management System</orgName>
+                </distributor>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative
+                        Commons BY-NC 4.0</licence>
+                </availability>
+                <date when="2020">2020</date>
+                <pubPlace>Graz</pubPlace>
+                <idno type="PID">o:wiesinger.1972</idno>
+            </publicationStmt>
+            <seriesStmt>
+                <title ref="gams.uni-graz.at/wiesinger">Digitale Edition der Tagebücher Karl
+                    Wiesingers</title>
+                <respStmt>
+                    <resp>Projektleitung</resp>
+                    <persName>
+                        <forename>Helmut</forename>
+                        <surname>Neundlinger</surname>
+                    </persName>
+                </respStmt>
+                <respStmt xml:id="editor">
+                    <resp>Editor, Annotationen</resp>
+                    <persName>
+                        <forename>Helmut</forename>
+                        <surname>Neundlinger</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName>
+                        <forename>Selina</forename>
+                        <surname>Galka</surname>
+                    </persName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <region>Oberösterreich</region>
+                        <settlement>Linz</settlement>
+                        <institution>Adalbert-Stifter-Haus Linz</institution>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="de"/>
+                    </msContents>
+                    <history>
+                        <origin>
+                            <origPlace>TODO</origPlace>
+                            <origDate when="1972">1972</origDate>
+                        </origin>
+                        <provenance>Karl Wiesingers Nachlass wurde nach seinem Tod von seiner Nichte
+                            an das Adalbert-Stifter-Institut übergeben. </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p>Die Orthographie des Originals ist weitgehend erhalten, offensichtliche
+                        Tippfehler wurden korrigiert.</p>
+                    <p>Aus personenschutzrechtlichen Gründen wurden Anonymisierungen bzw.
+                        Streichungen vorgenommen. Dies betrifft Passagen, in denen intime Handlungen
+                        dargestellt werden, explizite Beleidigungen, Beschimpfungen sowie von
+                        Wiesinger wiedergegebene Aussagen von Dritten, deren tatsächlicher Inhalt
+                        nicht mehr überprüft werden kann. </p>
+                </correction>
+                <normalization>
+                    <p>Datumsangaben wurden vom Editor normalisiert.</p>
+                </normalization>
+            </editorialDecl>
+            <projectDesc>
+                <ab>
+                    <ref target="info:fedora/context:wiesinger" type="context">Tagebücher von Karl
+                        Wiesinger</ref>
+                </ab>
+                <p>Die digitale Edition der Tagebücher des Linzer Schriftstellers Karl Wiesinger
+                    stellt ein zeit-, literatur- und lokalgeschichtlich singuläres Zeugnis bereit:
+                    Wiesingers bislang unveröffentlichte Aufzeichnungen aus den Jahren 1961 bis 1973
+                    dokumentieren sein Werden als literarischer und politischer Außenseiter im
+                    österreichischen Kulturbetrieb und geben auch Auskunft über den vom Kalten Krieg
+                    geprägten Alltag und die gesellschaftliche Atmosphäre im Linz der Nachkriegsära.
+                    Die digitale Edition ist mit umfassenden Informationen zu Leben und Werk des
+                    Autors sowie Kommentaren zu zentralen Aspekten der Tagebücher ausgestattet und
+                    ermöglicht über das Personen-, Orts-, Institutionen- und Schlagwortregister
+                    schwerpunktmäßige Recherchen bzw. transversale Lektüren.</p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+    <text xml:lang="de">
+        <body>
+            <p>1972</p>
+            <p>
+                <pb n="195" xml:id="T1972.1"/> krieg führen und gleichzeitig vom frieden reden, das
+                ist <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P742"
+                    >nixon</persName>. er lässt ganz schauerlich <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G14">vietnam</placeName>,
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G13"
+                    >laos</placeName> und <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G291">kambodscha</placeName>
+                bombardieren und redet dabei, wie wichtig es wäre, nach <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G19">china</placeName> zu
+                fahren, denn diese reise diene dem frieden und der friede wäre ja so unendlich
+                wichtig ... heuchelei, die moral dieser verrotteten untergehenden gesellschaft.</p>
+            <p>40% der österreichischen haushalte sind verschuldet. man nennt das
+                ‚wohlstandsgesellschaft‘. wohlstand (?) auf schulden </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">manches
+                    jahr mehr, manches jahr weniger partnerinnen. jedesmal neue freuden. manche
+                    jahre ganz ohne. das ist schlimm. es liegt zuviel vorurteil und belastung durch
+                    die bürgerliche und kirchliche moralmache auf dem geschlechtsverkehr. das müsste
+                    viel einfacher und unkomplizierter werden.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">eine
+                    bezaubernde stelle in <hi rend="italic">
+                        <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S436">der mann von la
+                            mancha</term>
+                    </hi> ist die der vergewaltigung. wie er eine dame aus der schlampe macht vor
+                    blinder verehrung. ich sag zu <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P224">eva</persName>: hör
+                    zu. da wird sie wild und wütend und explodiert. wird rot und keift drauflos: hör
+                    auf mit dem unsinn …</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">lieb sein
+                    zum geliebten oder zur geliebten aus liebe? man will ja nur sein
+                    geschlechtsorgan mitbenützen, dazu muss man ihn (oder sie) in stimmung bringen,
+                    gnädig stimmen, willig machen. je lieber man ist, um so eher leiht er ihr seinen
+                    schwanz, stellt sie ihm ihre fut zur verfügung. nachher wird der ton wieder
+                    rauh. nach länger dauerndem gebrauch sucht man einen neuen geschlechtsapparat,
+                    der wieder mehr entdeckerfreuden und aufregungen verspricht.<lb/>‚liebe‘ ist
+                    eine frucht der gier, der berechnung, der lust.</ref>
+            </p>
+            <p>die kirchenheuchler heucheln wieder wegen des <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S455"
+                    >abtreibungsparagraphen</term>. es geht ihnen um das leben. ‚leben hat vorrang.‘
+                daran dachten sie nie, als sie kanonen und waffen segneten. gegen den mord in
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G14"
+                    >vietnam</placeName> bringen sie ihre heuchlerischen mäuler nicht auf.</p>
+            <p>glutfester stoff für den haushalt, ein produkt der raumfahrt.</p>
+            <p>keine aufträge für die <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S518">nz</term>
+                </hi>. laue zeiten.</p>
+            <p>man übersieht immer, dass die ergebnisse von bürgerlichen wahlen ja kein
+                mehrheitsentscheid sind, sondern immer nur die entscheidung einer kleinen,
+                fluktuierenden gruppe, die als ‚zünglein an der waage‘ den ausschlag gibt. es
+                regiert also, wen dieses grüppchen wählt. </p>
+            <p>der private autoverkehr ist eine totale fehlentwicklung. es hätte von anfang an nur
+                für ärzte, politiker, manager etc. gehört. aber da war die autoindustrie dagegen.
+                und für jugendliche erst ab 20. stärkere wagen erst ab 25. und ab 50 strenge
+                prüfungen für die alt werdenden. und führerscheine ab 40 neu überhaupt nicht. wer
+                ihn bis 40 nicht hat, lernt es nicht mehr. er ist höchstens (die praxis lehrt es ja)
+                ein ständiger fremdkörper im verkehrsfluss.</p>
+            <p>
+                <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G333">malta</placeName>
+                möchte, dass die engländer abziehen. die wollen nicht. sie errichten – wie
+                demokratisch (!) – eine luftbrücke.</p>
+            <p>die linke siegt in <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G236"
+                    >finnland</placeName>. wir orientieren uns international.</p>
+            <p>
+                <pb n="196" xml:id="T1972.2"/> nur die starke natur der kinder lässt sie oft gegen
+                alle erziehungsversuche der eltern zu normalen, tüchtigen bürgern werden. kinder
+                werden nur drauflosgezeugt und draufloserzogen. eine elternschule wäre wichtig. das
+                wird im sozialismus der staat übernehmen. kinder zu menschen machen ist eine
+                diffizile aufgabe.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T2">
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P417"
+                        >kraft</persName> und <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P50">kain</persName> (kuk)
+                    suchen immer nach ‚literatur‘ bei mir. sie wissen nicht, was das ist. jede
+                    zeile, die ich schreibe, ist literatur.<lb/>aber eben so realistischer hoher
+                    art, dass <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P50"
+                        >kain</persName> sie nicht erkennt, der in jeder zeile immer <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P124">stifter</persName>
+                    sucht, den er nachäfft, und <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P417">kraft</persName>,
+                    der immer die klassiker sucht, die er begriffen hat. sie sind verbildet.<lb/>
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P50">kain</persName>
+                    von seinen eigenen versuchen, <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P417">kraft</persName> von
+                    seinem doktorgrad.<lb/>und beide von ihrer abneigung gegen mich.</ref>
+            </p>
+            <p>
+                <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S437">dschamila</term>
+                </hi> – grossartiger sowjetischer film, aber grosse künstlerische filme aus dem
+                osten können bei uns nie ankommen. sie wirken in unserem publikum nicht, das auf <hi
+                    rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S513">james bond</term>
+                </hi> und kriminelles dressiert ist.<lb/>unser publikum, unser volk, geht guten
+                dingen sowieso instinktsicher aus dem weg.<lb/>wie sie auch, drauf dressiert, juden,
+                kommunisten, langhaarige, aussenseiter im nu als ‚verbrecher‘ erkennen, in ihrer
+                weltfremden unwissenheit, in ihrer gnadenlosen dummheit. und entzöge man ihnen ihre
+                existenzmittel, sie sängen weiter das lob der sissy, der gräfinnen, des staates.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T7">lesung von
+                        <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S404">max maetz</term>
+                    von <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I123">rias
+                        berlin</orgName> am 25.1. um 22.00. die haben ein dolles vorwort gemacht (es
+                    kommt auf den romanumschlag).</ref>
+            </p>
+            <p>die morde, die die reaktion beging, verglichen mit den ‚betriebsunfällen‘ bei
+                revolutionen oder die massen der toten bei imperialistischen kriegen – wenn man so
+                das leid und den tod zählbar macht, die opfer der nazis, die opfer <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P540">thiersʼ</persName>, die
+                opfer der junten in asien und südamerika – die sind ja unzählbär, unnennbar und
+                unvergleichlich.<lb/>schlechter schneidet das bürgertum ab mit seinen 2000 jahren
+                ‚liebespredigt‘ durch ihre christlichen ideologen.</p>
+            <p>leistungsgesellschaft nennt man das heute. die ‚leistung‘ aber sollen die proleten
+                erbringen. den profit streifen die gauner ein.</p>
+            <p>
+                <persName type="anonymization">dr</persName> wird selbst am bettelstab die
+                leistungsgesellschaft verteidigen und den <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S469">kapitalismus</term> und
+                wird sich selber die schuld geben, wenn er versagt, dass er versagte. so tief sitzt
+                die kriminelle wurzel des <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S469">kapitalismus</term>.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T4">ein
+                    wesentlicher grund, dass unsere partei klein bleibt, ist die angst.<lb/>es
+                    bleibt doch ein bodensatz an geschichtlichem wissen, und da ahnen sie, dass sie
+                    als kommunisten oft in gefahr geraten könnten, ihr leben oder ihre existenz zu
+                    verlieren. wer kommunist wird, ohne die grösse zu haben, einer zu sein, fühlt
+                    sich sofort von der blutigen waffe der reaktion ereilt.<lb/>es ist die art der
+                    kleinen spiesser (und aus solchen besteht heute unser volk im wesentlichen),
+                    angst zu haben und am kleinkram zu hängen.<lb/>nur das konsumglück nicht
+                    verlieren.</ref>
+            </p>
+            <p>brauereikommune, <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G213"
+                    >österreichs</placeName> älteste kommune. sie hat heute in <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G114">freistadt</placeName> 164
+                mitglieder. die einzige kommune, die sich bisher bei uns bewährt hat. eine grosse
+                arbeiterschar macht sie reich, glücklich und zufrieden.<lb/>ein eimer hat 56
+                liter.<lb/>ein eimeranteil kostet heute 120 ös.<lb/>1770 wurde eine gemeinsame
+                brauerei gebaut.<lb/>ein mitglied der brauereikommune darf bis zu 15 eimer
+                verkaufen.<lb/>aber keiner darf mehr als 140 eimer einkaufen.<lb/>braustadel, am
+                haus angeschlossen, an jedem der 164 häuser. das <pb n="197" xml:id="T1972.3"/>
+                freistädter brauereirecht ist mit den häusern verbunden.<lb/>die freistädter
+                brauerei konnte dieses jahr (1971) schon eine 15%ige wertsteigerung
+                erreichen.<lb/>der höchste hausanteil sind jetzt 150 eimer, der niedrigste 15
+                eimer.</p>
+            <p>bienenkönige als exportartikel.<lb/>3500 wurden bisher jährlich vom öst. imkerverband
+                in die <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I11"
+                    >su</orgName> geliefert.<lb/>2000 in die <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I9">ddr</orgName>, jede
+                mit etwa 9 begleitbienen.<lb/>die nigra-bienen sind stechlustig.<lb/>die
+                carnica-bienen werden geliefert.<lb/>eine bienenkönigin mit begleitbienen kostete
+                bisher 100 ös, nun wollen die russen nur noch 80 ös bezahlen, denn <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G247">italien</placeName> hat
+                unterboten.</p>
+            <p>
+                <gap reason="deleted" resp="#editor">
+                    <desc>[...]</desc>
+                </gap>
+            </p>
+            <p>aus dem <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S37">tagblatt</term>
+                </hi> von 1947: eine us-wunderkamera, 1 minute nach dem knipsen dreht man an einem
+                knopf und das fertige bild kommt heraus.<lb/>erfindung von mr. land, der seine
+                kamera <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S542">polaroid</term>
+                nennt.<lb/>ich habe bereits eine.<lb/>pfann im <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S37">tagblatt</term>
+                </hi>: der hund des bettlers.</p>
+            <p>mein altersheimartikel in der <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S518">neuen zeit</term>
+                </hi> am 11.11.1947.</p>
+            <p>erstes mal <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S518">neuen zeit</term>
+                </hi> am 9.10.1945.</p>
+            <p>1949 an vierzehn badetagen 37 badetote<lb/>
+                <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G21">usa</placeName> 107
+                tote in hitzewelle<lb/>futschau befreit am 18. august</p>
+            <p>die mondrakete, <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S37">tagblatt</term>
+                </hi> 12.1.49, wird niemals sein. meinten die guten.</p>
+            <p>nun, da die kommunisten gesiegt haben, ist <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G19">china</placeName> für die
+                    <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S37">tagblatt</term>
+                </hi>-leute plötzlich ‚... ein mysterium‘.</p>
+            <p>anarchisten der dichtkunst – so wurde eine harmlose reimerei nur ohne grossbuchstaben
+                bezeichnet. </p>
+            <p>vortrag des ‚genossen‘ <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P26">hans weigel</persName> am
+                6.6.50.</p>
+            <p>1950 wieder 16 badetote.</p>
+            <p>josefa schönbass sammelte 2500 unterschriften zum friedensappell von stockholm. </p>
+            <p>pummeringuss misslungen am 26.12.50.</p>
+            <p>willi schaeffer aus <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G92"
+                    >berlin</placeName> war in <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G23">linz</placeName> und
+                nachher mit allen leuten bei mir in der rainerstrasse. mit <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P45">klinger</persName>,
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P328"
+                    >stögmüller</persName>, <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P132">schmidinger</persName>,
+                lang, tinodi, wagner hans etc.</p>
+            <p>am 3. august 50 <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S518">neue zeit</term>
+                </hi>: verkehrsunfälle wollen kein ende nehmen.<lb/>die hatten eine ahnung. es
+                sollte erst losgehen.</p>
+            <p>noch 7000 arbeitslose in oö.</p>
+            <p>erste grössere lesung von mir im ortner (<persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P45">klinger</persName>,
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P50"
+                >kain</persName>) am 2.3.51<lb/>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P74">walter
+                    scherb</persName> eröffnete kleine bar in der blumau am 22. sept. 1951.<lb/>ein
+                espresso 1,90. das war damals billig</p>
+            <p>
+                <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G23">linz</placeName>
+                verbraucht 46 mill. lt. wasser (23.10.51).</p>
+            <p>petrak noch 1951 für <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I3">kp</orgName>
+                unterwegs.</p>
+            <p>ermordung des negers mc ghee in der gaskammer am 11.5.51.</p>
+            <p>fotoausstellung. ich war mit zwei bildern vertreten. mai 51.</p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P205"
+                    >churchill</persName>: kein friede, solange <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S6">kommunismus</term> herrscht
+                (4 48).</p>
+            <p>11. august 1948 <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S37">tagblatt</term>
+                </hi>: schwere niederlage der chinesischen kommunisten.<lb/>sie sind in wilder
+                flucht.</p>
+            <p>
+                <pb n="198" xml:id="T1972.4"/> 19. august, schlagzeile: auch englische kommunisten
+                gegen <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S6"
+                >kommunismus</term>.</p>
+            <p>andere hetztitel: <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I11">russland</orgName>
+                hat versagt, missglückter <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I3">kp</orgName>-streich,
+                wer liefert den kommunisten propagandaschlager?</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T2">
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P120"
+                        >fischnaller</persName> kam zu dr. buchberger und sagte: ich fahre zu
+                        <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P217"
+                        >picasso</persName>, und jeder, der mir die reise finanzieren hilft, bekommt
+                    von allen blättern, die ich mache, eine kopie. buchberger kauft die katz im sack
+                    nicht bei aller freundschaft.<lb/>
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P120"
+                        >fischnaller</persName> gabʼs ihm einmal zurück. buchberger liess ihn einen
+                    bildstock auf der wurzeralm schnitzen. als der dr. einmal kam ansehen, sah er da
+                    allerlei tiere geschnitzt und <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P120"
+                        >fischnaller</persName> meinte: ich bin ihnen sehr dankbar. durch sie weiss
+                    ich endlich, wie ein hirsch aussieht.<lb/>buchberger schwört, dass dumme eltern
+                    dumme kinder haben und kluge eltern (so klug wie er und sein weib) kluge kinder.
+                    er schwört auf die vererbung.<lb/>von milieu und erziehung hält er nichts.
+                    typisch.<lb/>ein frommer christ. sie sehen doch immer nur flach, einseitig und
+                    nur enge ausschnitte.<lb/>
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P917">ernst
+                        thälmann</persName> sagte 1929: die sozialdemokratie ist die gefährlichste
+                    form des faschismus.<lb/>er hat damit nicht die antifaschistischen kräfte
+                    gespalten, wie der kommentator meint, sondern die waren ja schon lange bei der
+                    kp. was in der sp blieb, war kleinbürgerliches semifaschistisches geschmeiss,
+                    das sich mit revolutionären phrasen seine kleinbürgerliche behaglichkeit
+                    erkaufte.</ref>
+            </p>
+            <p>die gesellschaft wehrt sich gegen den radikalismus, weil dieser ihr zeigt, wie die
+                welt morgen aussehen wird.</p>
+            <p>‚rechtsradikalismus‘ ist in diesem zusammenhang ein exorzismus, eine
+                teufelsaustreibung mit dem teufel. rechts ist ohnehin radikal.</p>
+            <p>gerlinde ist bezaubernd.</p>
+            <p>
+                <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S296">die zeit</term>
+                </hi> am sa 19.1.: ‚nicht kommunen, die kommen hier nicht an, sondern community ...‘
+                so werden menschen vertrottelt.<lb/>wennʼs amerikanisch englisch klingt, wirdʼs
+                leichter gefressen, auch wenn inhalt und sinn ganz was anderes sind.</p>
+            <p>ein italienischer architekt sagte: autos in den städten sind wie schweine im
+                wohnzimmer. sie gehören hinaus.<lb/>wie wahr. was ich schon lang sage.<lb/>man wird
+                noch einmal gesetze gegen autos schaffen.</p>
+            <p>
+                <date when-iso="1972-01-20">20.1.</date>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8"><persName
+                        type="anonymization">gc</persName> stellte mir vor einigen tagen seine
+                    tochter vor. eine schönheit im stil der verrückten <persName
+                        type="anonymization">kd</persName>. sechzehn jahre alt. vor der schule
+                    gestern getroffen und eingeladen, zu mir zu kommen. sie kam. ihre weisse und
+                    sehr gut entwickelte brust entblösst und sie mein glied kosen lassen. sie hielt
+                    es, wie weiland <persName type="anonymization">ea</persName>, zaghaft wie ein
+                    vögelchen.<lb/>am donnerstag will sie kommen.</ref>
+            </p>
+            <p>seit einer woche fahre ich nachts zeitungen aus. ein anstrengender aufregender job.
+                hier gehtʼs um sekunden. ein genosse ist ausgefallen, der hübsch, der das fast 30
+                jahre macht und gesundheitlich schon ruiniert ist. ich saniere meine miesen finanzen
+                mit dem job, komme ich doch pro nacht auf über 200 schilling, in der woche auf 1200
+                ös.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">
+                    <persName type="anonymization">gd</persName> war da. sie sass auf meinem schoss
+                    und telefonierte ‚harmlos‘ mit ihrem vater. dass diese girls das so gerne tun,
+                    männer hintergehen, und wennʼs die väter sind, sehr gerne nimmt sie das glied in
+                    den mund und saugt dran bis zum erguss, den sie gierig schluckt, um dann das
+                    letzte rauszulecken, es erregt sie (natürlich).<lb/>ihr telefongespräch war etwa
+                    so: ich wollte dir sagen papa – wie gern ich das hab, wie gut das ist, was ich
+                    da ja also ... usw.<lb/>sie ist sehr verliebt oder gibt sich so und ruft alle
+                    augenblicke lang <pb n="199" xml:id="T1972.5"/> an. jeden donnerstag vorerst
+                    schleckerei.</ref>
+            </p>
+            <p>nachts, nach meiner zeitungstour, muss ich bei ihr vorbeikommen, das ist etwa um
+                4.19, und mit der lampe in ihr zimmer leuchten, dann kommt sie ans fenster, wir
+                winken uns, und ich fahre wieder.</p>
+            <p>im spott liegt schon die tragik des niederganges, des unterganges.<lb/>so steht es
+                bei denen, die über den <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S6"
+                    >kommunismus</term> spotten.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">die
+                    ehefrauen wollen immer nur routinefickerei. es ist kaum mehr drinnen als ein
+                    schnelles begatten. neue damen und vor allem jüngere können noch alle spiele
+                    mitmachen. es ist auch lustiger mit ihnen.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">
+                    <persName type="anonymization">af</persName> ruft wieder an. sie hat es gerne,
+                    an unsere stunde in brandstatt zu denken, da wir einander eine stunde lang
+                    geschleckt haben und dann zum ficken keine kraft mehr blieb. sie ist leider
+                    verheiratet. da wagen sie keine extratouren mehr.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">
+                    <persName type="anonymization">gd</persName> gab mir einen genauen stundenplan,
+                    damit ich immer weiss, in welcher klasse sie sitzt. in der pause wünscht sie
+                    mich immer kurz am schultor zu sehen.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">heute am
+                        <date when-iso="1972-01-24">24.1.</date>
+                    <lb/>mit ihr im wald und in einem gasthaus in <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G194">leonding</placeName>
+                    (wo ich mit <persName type="anonymization">ee</persName> war).</ref>
+            </p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P641"
+                >dalma</persName>-unsinn: eine superöffentliche meinung erschwert die demokratische
+                willensbildung.<lb/>die reden nur, weil sie dafür bezahlt werden.</p>
+            <p>die nachtfahrten werden schon routine. unsere romeo-und-julia-szenen nachts um 4
+                auch.</p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P759">scharf</persName>
+                rief mich an, um mich nach versailles zum internationalen vietnamkongress zu
+                delegieren.</p>
+            <p>die <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I71"
+                    >kinderfreunde</orgName> begannen vor jahren damit, mehr höhere schulen zu
+                fordern. dann forderten sie mehr schüler an höheren schulen und jetzt heisst es
+                schon: mehr begabte (!) schüler an höhere schulen.<lb/>und über kurz oder lang
+                werden sie wieder elitäre schulen fordern.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T2">wer sich in
+                    die provinz begibt, kommt darin um.<lb/>so erging es <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P918">martha
+                        jungwirth-schmeller</persName> mit ihren herrlichen kritischen gemälden. die
+                    linzer ‚kulturkenner‘ jauchzten: wos is denn des?<lb/>und <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P505">schimanko</persName>
+                    und <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P417"
+                        >kraft</persName>, die feiglinge, schickten ihre vertreter (möseneder, einen
+                    filmjüngling). von der <hi rend="italic">
+                        <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S281">kz</term>
+                    </hi> kam gerlinde, die putzfrau.<lb/>und man hetzte gegen sie auf unfundierter
+                    basis.<lb/>nun liess martha um den 4. herum ihre bilder vorzeitig abnehmen. sie
+                    hat recht. sollen die dodeln unter sich bleiben.</ref>
+            </p>
+            <p>die bombenleger <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G21"
+                    >amerikas</placeName> sind keine psychopathen, sondern guerillas.<lb/>bei uns
+                wären es psychopathen, denn die kommen von rechts. die linke legt bei uns keine
+                bomben.<lb/>in den <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G21"
+                    >usa</placeName> jedoch, wo ein mensch noch wie ein tier leben muss, ist selbst
+                der grösste terror ein segen.<lb/>grandioser erfolg des <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I11">su</orgName>-films
+                    <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S433">feuerbogen</term>
+                </hi>. die <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I26"
+                    >ak</orgName> war bis zum letzten platz besetzt.</p>
+            <p>im ‚sportzentrum untermühl‘ gewesen. <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P379">robert</persName> hat
+                dutzende eisstücke, schlittschuhe, federbälle etc. und alle seine besucher treibt er
+                zum sport. er und <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P380"
+                    >lore</persName> betreiben alles bis zum umfallen.</p>
+            <p>kalendertext für <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I121">eremiten</orgName>. </p>
+            <p>olympia – wie uninteressant das alles ist. alles ist manipuliert.<lb/>im olympischen
+                komitee sitzen lauter funktionäre aus dem westen, meist millionäre, und nur vier aus
+                den oststaaten.<lb/>die sportler von heute sind die gladiatoren der antike. nur
+                wirft man sie nicht löwen zum frass vor, sondern zeituhren. die sieger dürften gut
+                leben, die verlierer weiterarbeiten und trainieren.</p>
+            <p>
+                <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S541">irland</term> ist
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G22"
+                    >englands</placeName>
+                <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G14"
+                >vietnam</placeName>. <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S439"
+                    >morde am laufenden band</term>.</p>
+            <p>
+                <pb n="200" xml:id="T1972.6"/> märz. <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P919">schranz</persName> und
+                andere sportler werden von den spitzenpolitikern empfangen und hofiert. <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P919">schranz</persName> ist
+                33. trotzdem siegte er angeblich oft.<lb/>diese österreichischen hysteriker machen
+                doch aus allem einen wirbel.</p>
+            <p>die wiener alleine nicht. auch die oberösterreicher, die sich zerkugelten und kopf
+                standen, als der gangstergeneral <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P920">mc cloy</persName>
+                <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G23">linz</placeName>
+                verliess. auch er trug tränen in den augen, und die leute küssten die lokomotive und
+                rutschten auf den knien, dass er doch bliebe.</p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P10">kollers</persName>
+                erzählungen. elke hat aus ihm, den sie liebt, einen menschen
+                gemacht.<lb/>wahrhaftig, die liebe ist nicht käuflich. eine so originelle verbindung
+                wie die der zwei – naja.<lb/>pornographie dient als anregung und befreit wirklich.
+                warum soll man das, was jeder am liebsten hat und tut, nicht auch im bild ansehen.
+                ich finde verkehrende paare zauberhaft, und schau gerne zu, so gerne wie ichs selber
+                mache.</p>
+            <p>zurück aus <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G155"
+                    >paris</placeName>, assemblée mondial de paris pour la paix et lʼindependence
+                des peuples dʼindochine in versailles war ein erlebnis. gute reportage darüber
+                gemacht. photos mit mr. lands <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S542">polaroid</term>.<lb/>
+                <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G155">paris</placeName>
+                ist eine traumstadt.</p>
+            <p>
+                <gap reason="deleted" resp="#editor">
+                    <desc>[...]</desc>
+                </gap>
+            </p>
+            <p>die <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I3"
+                >kp</orgName>-funktionäre sind eine art feldwebel, unerbittlich und rechthaberisch,
+                aber eben mit herz und hirn zum unterschied von den feldwebeln der deutschen
+                    <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I32"
+                    >wehrmacht</orgName>.</p>
+            <p>das ringen der fraktionen um die sprecher der us-delegation. <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P857">jane fonda</persName>
+                war da, sidney peck. möbs und dörndorfer machen das geschickt.</p>
+            <p>comm hors dʼoeuvre gab es salat, fisch oder aspick<lb/>hauptspeise gulaschsaft mit
+                curryreis<lb/>oder kalbsrahmfleisch mit reis<lb/>oder gebratenes huhn<lb/>dessert
+                caramel, schockoladenpudding, früchte<lb/>käse hart, käse weich, joghurt<lb/>bier,
+                wein, wasser</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">da versank
+                    plötzlich das ganze auditorium, und nur noch die schönen augen einer
+                    wunderschönen negerin blieben da für mich wie ich für sie. aber es dauerte nur
+                    sekunden, dann schlug das getriebe wieder über uns zusammen. schade. ein
+                    wuschelkopf mit einem wunderschönen körper mit allen weiblichen vollen formen im
+                    gelben, orangefarbenen kleid, eine frau dr. professor aus <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G334"
+                    >tahiti</placeName>.<lb/>in einer pause kam sie auf mich zu. ich gestehe: ich
+                    wich aus. was sollʼs, soll ich mir eine unheilbare wunde schlagen lassen? für
+                    einige stunden leidenschaft?</ref>
+            </p>
+            <p>gewaltige demonstration durch <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G155">paris</placeName> an
+                einem regensonntag. neben mir eine nette, kleine, wutzelige frau, arbeiterin mit
+                lebhaften augen.<lb/>immer wieder sahen wir uns an, während wir die sprechchöre
+                mitmachten – <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P742"
+                    >nixon</persName> mörder assassin – unsere lippen bewegten sich im
+                gleichklang.<lb/>eine kohabitation zartester art. leider bin ich nur noch kaum 20
+                stunden in <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G255"
+                    >paris</placeName>.</p>
+            <p>in <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G137">prag</placeName>
+                schneite es.<lb/>wir flogen: (mit dem auto nach <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G201">budapest</placeName>)
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G201"
+                    >budapest</placeName> 14.10 ab, <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G137">prag</placeName> 15.00
+                an, ab 16.15 <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G255"
+                    >paris</placeName> 17.20.<lb/>zurück über <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G201">budapest</placeName> nach
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G335"
+                    >schwechat</placeName>.</p>
+            <p>einige millionäre dirigieren das sportgeschehen um die olypmischen spiele. sicher
+                sind die siege auch schon vorher ausgeschnapst.</p>
+            <p>
+                <pb n="201" xml:id="T1972.7"/> die phalanx der oststaaten, <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I9">ddr</orgName> und
+                    <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I11"
+                    >ussr</orgName> vor allem, sind ein schöner beweis für die überlegenheit des
+                öffentlichen sports, den man im westen diffamierend ‚staatssport‘ nennt. dabei sind
+                grad die westlichen, sogenannten ‚freien‘ sportler eingespannt in den eisernen
+                kürass der pflichten, des verdienen-müssens. wie nirgends sonst. und jeder wird mit
+                geld willig gemacht für alles.</p>
+            <p>kaum zu hause, rief sie schon an, die <persName type="anonymization">gd</persName>
+                mit ihren sechzehn.</p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P11"
+                    >schanovsky</persName> kündigt an, dass im juni dr. sommer, konsul der <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I46">brd</orgName>, einen
+                vortrag halten wird über ‚die unmenschliche mauer‘. ich frage: welche, pardon,
+                welche mauer?<lb/>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P11"
+                    >schanovsky</persName>: du hast es not, dassd so provozierend fragst.<lb/>ich:
+                es gibt so viele mauern. und der sommer wird doch nicht die <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I9">ddr</orgName>-<term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S40">grenze</term> meinen und
+                seiner regierung einen hund drein machen?</p>
+            <p>
+                <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G255">paris</placeName>.
+                die demonstration der 100.000 zwischen république und bastille, wie prächtig, so
+                bewusste proletarier.</p>
+            <p>je kranker einer ist, umso mehr und lieber raucht er.</p>
+            <p>die unlebendigen diskussionsbeiträge werden daheim vorbereitet und müssen dann um
+                jeden preis im auftrag der gruppe vorgebracht werden.<lb/>dass soviel gleiches (in
+                versailles) gesagt wurde, beweist, dass viele völker vieler länder die gleichen
+                gedanken haben.<lb/>es geht allen darum, den verbrecherischen krieg der <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G21">usa</placeName> gegen
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G14"
+                    >vietnam</placeName> zu fall zu bringen.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8"
+                    >hypo-galerie. hier lernte ich sie kennen, das hühnchen. nun reibt sie während
+                    der einführung ihre hüfte an meiner, sucht mit ihren zitternden fingern meine
+                    hand, und vor uns steht ihr vater, gleich alt wie ich, ein griff an ihren arsch.
+                    prächtig. die spalte dazwischen, ihre brust an meinem oberarm zu spüren. ihre
+                    hand tastet nach meiner hose. ertastet das steife glied, sieht mich
+                    lieb-strafend an.<lb/>ketten, an mich binden kann ich sie nicht, sie wird mir
+                    über kurz oder lang wieder verloren gehen. sie ist wie ein vogel, der fliegen
+                    will. sechzehn. das leid kam mit dem glück.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">sie rief
+                    schon lange nicht an. herzklopfen bei mir, wenn das telefon läutet, eine
+                    wahnsinnige erregung, aber ich darf nicht anrufen. ich darf nicht den alten
+                    verrückten verliebten irren spielen.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">endlich
+                    rief sie an: mein vater ist sauer, er hat gestern in der hypo was
+                    bemerkt.<lb/>na und?<lb/>ein eifersüctiger vater, einmal was anderes als ein
+                    eifersüchtiger mann, bräutigam, nebenbuhler.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">sie ist
+                    meine <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S440"
+                    >lolita</term>.<lb/>eine eigene aktivität entwickelt sie noch nicht. sie lässt
+                    mit sich spielen, sie lässt mich in ihrem mund ficken bis zum rachen hinunter,
+                    zwischen den brüsten, zwischen den schenkeln. aber die scheide ist noch zu. das
+                    hat mama wahrscheinlich streng verboten.<lb/>ich will auch nicht ernsthaft. sie
+                    könnte dann sehr gefährlich werden, wenn sie geweckt wird und dann an mir hängt,
+                    das humbert-humbert-gefälle ist zu gross.</ref>
+            </p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P742">nixon</persName>
+                in <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G292"
+                    >peking</placeName> – ein schwerer gang für diesen gangster.<lb/>die chinesen
+                sind von einer eiskalten höflichkeit. der <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S441">nixon-besuch in
+                    rot-china</term> ist das ende einer gesellschaft mehr noch als die <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S3">russische
+                revolution</term>.</p>
+            <p>heiratsgedanken? wahnsinn.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">diese
+                    sexfilme mit ihrer verherrlichung des primitiven sofort-verkehrs sind nicht
+                    lebensecht. sicher kommt es vor, dass zwei sich treffen und sofort vögeln, aber
+                    das sind die fickereien, die den kater mit sich bringen und die frage nachher:
+                    was soll ich mit ihr, was soll sie mit ihm.</ref>
+            </p>
+            <p>
+                <pb n="202" xml:id="T1972.8"/>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">der aufbau
+                    einer intimeren, länger dauernden partnerschaft schafft zwar schwierigkeiten,
+                    besonders wenn man verheiratet ist, aber ungleich mehr lüste. ich hatte viele
+                    meiner damen oft über jahre hinweg. zumindest über wochen. und unter fünfmal
+                    habe ich nur wenige gefickt.<lb/>die augenblickslieben bringen nur eine
+                    aufregende samenentleerung, die auch befriedigt, aber nur kurz und vor allem
+                    mehr der onanie gleicht.</ref>
+            </p>
+            <p>diese glasklare dumpfheit der betrunkenen, die besonders auffällt, wenn man selber
+                nüchtern ist.</p>
+            <p>diese ‚entschlossenen‘ gesichter der halbwüchsigen männchen, die sie ihren filmidolen
+                abgeschaut haben. und in us-army-kleidung werden sie so forsch und ‚stark‘.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T7">die
+                    kalendergeschichten sind fertig. kalender 1974 ‚der mord des monats‘. schwere
+                    arbeit, innerhalb dreier tage geschafft.<lb/>bauernregeln als verselbstständigte
+                    spiesserregeln, faschistenregeln.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3">noch vor 20
+                    jahren wollte man das nun kommunistische <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G19">china</placeName>
+                    ‚zurückbomben‘ in die steinzeit, wie man das heute noch mit <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G14">vietnam</placeName>
+                    tun möchte. nun ist <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G19">china</placeName> die
+                    dritte weltmacht.<lb/>nach <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G19">china</placeName> wird
+                    der strolch in die <orgName
+                        ref="https://gams.uni-graz.at/o:wiesinger.institutions#I11">su</orgName>
+                    reisen, und seine nichtssagendsten protokolle und memoranden werden von der
+                    bourgeois-presse hochstilisiert.</ref>
+            </p>
+            <p>wir haben verlobung gefeiert. nächste woche ihren und meinen geburtstag (13. und
+                10.).</p>
+            <p>im <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S37">tagblatt</term>
+                </hi> heute artikel über das demokratisch-faschistische <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G21">amerika</placeName>. nicht
+                von <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P76"
+                >kunz</persName>.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">das ist die
+                    tragik, dass die frauen, wenn sie einige jahre verheiratet sind, kaum mehr die
+                    kraft, den mut oder die gier aufbringen, so zu sein wie mädchen oder bräute.
+                    dann fühlt sich der ehemann vereinsamt, denn seine drüsen arbeiten ja noch
+                    flott. kommt gier und lust und sehnsucht. dann kommt eine junge geilheitskanone,
+                    und die nimmt man, weil man ja nicht als onanist enden will. als vojeur, als
+                    frustrierter, als sadist. und die ehetragödie beginnt.<lb/>mein koitus in
+                        <persName type="anonymization">gd</persName> mund ist auch herrlich.
+                    unmengen spritze ich in diesen mädchenmund.<lb/>die schülerinnen sind wirklich
+                    so neugierig, wie die reporte sie schildern. sie gehen gewissermassen bei
+                    älteren männern in die lehre.</ref>
+            </p>
+            <p>
+                <gap reason="deleted" resp="#editor">
+                    <desc>[...]</desc>
+                </gap>
+            </p>
+            <p>‚freies‘<placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G21"
+                    >amerika</placeName>. es wird gewarnt, gewisse städte oder stadtteile zu
+                betreten. da wird man umgebracht oder ausgeraubt oder zumindest halb tot geprügelt.
+                die freie welt.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">sie meint
+                    bereits: eine halbe stunde in der woche genügt, sich zu sehen.<lb/>nun ja, für
+                    einen schnellen akt. ihr fehlt eben noch die weiblichkeit, die mit dem partner
+                    sein will, so oft es geht.</ref>
+            </p>
+            <p>die geduld des österreichers: wenn der wein schlecht ist, sagt er ‚ah, des is a guter
+                most‘. wenn der most gut ist, sagt er: ‚ah, des is a guter wein.‘</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">es wird gut
+                    sein, wennʼs aus ist. wennʼs auch weh tun wird. und fehlen wird, die
+                    oralkoitusgeschichte jeden donnerstag früh von 8–9 uhr, kurz nachdem <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P224">eva</persName> weg
+                    ist und sie kommt und ich völlig nackt auf ihr hocke, die völlig bekleidet ist
+                    und nur im gesicht nackt, das mir mit dem mund eine scheide macht.</ref>
+            </p>
+            <p>es ist aus. gott sei leider.</p>
+            <p>
+                <pb n="203" xml:id="T1972.9"/>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">die jugend
+                    interessiert sich auch für nackte männer und frauen und darstellungen des
+                    geschlechtlichen tuns, aber für pornographie fehlt ihr noch die reife. die
+                    erkenntnis, wie schön alles ist, was mit zwei verkehrenden menschen
+                    zusammenhängt.<lb/>frauen sind deshalb weniger für bildliche darstellung, weil
+                    sie von kind an ohnehin ununterbrochen unter sexualstress, sexueller bedrängnis
+                    stehen und praktisch immer gefickt werden können, wenn sie wollen. männer haben
+                    es schwerer, brauchen abreaktionen.<lb/>lieben, das ist eine schlacht zwischen
+                    zwei menschen, bei der es um lustgewinn geht. jeder möchte für sich soviel
+                    herausholen als möglich. er das körperliche, sie das seelische. dazwischen gibt
+                    es die praktische ausübung.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">in
+                    liebesdingen nützt die psychologie nicht viel, weil so viele unbekannte faktoren
+                    mitspielen. die regel, die nebenbuhler, die ständig wechselnden wünsche und
+                    gelüste, der ständig wechselnde geschmack, vitaminmangel, ernährung etc.
+                    sauberkeit, der psychologe fragt sich durch, wenn er einen kranken erkennen
+                    will. der liebende wird auch versuchen, sich informationen zu erfragen, aber er
+                    bekommt keine wahren auskünfte.</ref>
+            </p>
+            <p>ich schickte ihr zum abschluss eine blume, sie heisst ‚anthurion‘ oder simpel
+                ‚flamingo‘ und kommt aus <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G336"
+                >teneriffa</placeName>.</p>
+            <p>das <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I39"
+                    >kellertheater</orgName>, alibi an die avantgarde und zugeständnis an den linzer
+                spiesser.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">man müsste
+                    die ehefrau fragen, ob sie eine seelische und sexuelle wiederaufrüstung erlaubt.
+                    eine kluge frau würde ja sagen, denn sie profitiert von den neu erwachten, neu
+                    geweckten lüsten. </ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">zwei arten
+                    der faszination durch ein weib: die durch die fremdheit, eine extrem anders
+                    geartete partnerin, oder durch die vertrautheit, eine gleich geartete
+                    partnerin.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">liebe ist
+                    die illusion, die man sich gegenseitig gibt, um an das eigene ziel zu
+                    kommen.</ref>
+            </p>
+            <p>war mit den kindern von der nossbergerstr. in der au und habe ihnen das <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S442">einheitsfrontlied</term>
+                beigebracht.</p>
+            <p>schiff klar zur sturmfahrt, vor dem wind brassen luv und lee und vorwärts, vorbei an
+                diesen klippen ...</p>
+            <p>die nachtfahrten sind auch vorbei. schade. wird mir fehlen, nicht nur finanziell. ein
+                einsamer, irgendwie spannender job.</p>
+            <p>gestern wieder ein hörspiel von karl wiesinger aus <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G38"
+                >innsbruck</placeName>.<lb/>muss ihm namensänderung vorschlagen.<lb/>keiner glaubt,
+                dass das nicht von mir ist.</p>
+            <p>diese ‚heiligen‘ spinner. da bringt einer quasi ‚heiliges‘ wasser mit und infiziert
+                europa mit pocken. als ob nicht das unglück genügte, das die kirche mit ihrer
+                keuschheitsdodelei über die menschheit gebracht hat. </p>
+            <p>die neueste meldung aus <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G14">vietnam</placeName>: die
+                bombenangriffe der us-flugzeuge nennt man jetzt ‚schutzreaktionen‘.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8"
+                    >korrespondenz mit <persName type="anonymization">et</persName>, mit der sich
+                    vor einiger zeit sehr schöne sache in ihrem zimmer auf dem andreas-hofer-platz
+                    anspann, als wir schon nackt waren und sie, mit roten handschuhen angetan und
+                    sonst nichts, mein glied koste. sie ist wieder allein und lässt durchblicken,
+                    dass sie ... naja, sie wird immer, wennʼs ihr kommt, ohnmächtig.
+                    interessant.<lb/>sie führe mit mir nach <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G139">vela
+                    luka</placeName>.<lb/>auch <persName type="anonymization">tk</persName> hat
+                    zugesagt. sie ist eine hübsche frau und wie sie sagt, nähme die kinder ihre
+                    mutter und sie hätte auch grad urlaub. nach ostern. nach <term
+                        ref="https://gams.uni-graz.at/o:wiesinger.terms#S278">mauerbach</term> werde
+                    ich mich entscheiden, welche dame ich mitnehme.</ref>
+            </p>
+            <p>
+                <pb n="204" xml:id="T1972.10"/> alles in allem, es fehlt an frauen nie, wenn man
+                sich ordentlich dahinterklemmt und weder durch zeitmangel noch durch geldmangel
+                gehandicapt ist.</p>
+            <p>
+                <date when-iso="1972-04">april 72</date>
+            </p>
+            <p>grosse offensive der <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I109">vietnamesischen
+                    befreiungsfront</orgName>. heuchlerisch heisst es im us-kommentar: diese neue
+                offensive bringt den zeitplan für den abzug der us-truppen in gefahr.<lb/>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P160"
+                    >goebbels</persName> war ein waisenknabe gegen diese heuchelei und
+                rabulistik.<lb/>als ob irgendwas sie hindern könnte, abzuhauen, nachdem sie mit
+                bomben und granaten, giftgas und napalm nicht durchgekommen sind.<lb/>und am 3.
+                april wenden sich die <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G21">usa</placeName> ‚an die
+                völker der welt‘, weil <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S497"
+                    >nordvietnam</term>
+                <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S498">südvietnam</term>
+                überrennt. als ob sie das was anginge.<lb/>sie haben sich noch nie ‚an die völker
+                der welt‘ gewendet, weil sie so unmenschlich in <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G14">vietnam</placeName>
+                wüteten mit ihren schwersten kriegsmaschinen.</p>
+            <p>die journalisten in ihren spalten (eine nette spalte hat die obermeier und auch die
+                liebhart), dass sie lediglich gemeinplätze aufbauschen auf konservativste art und
+                ohne viel wissen. einfach wie ihnen der schnabel gewachsen ist. das ist die ‚freie‘
+                presse.<lb/>bla bla.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T2">podzeit und
+                    gerda geyer getroffen. sie machen in dokumentarfilm.<lb/>schimpfen auf <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P259">theo</persName>,
+                    oder? der lässt sie angeblich nie in ruhe.<lb/>immer forderungen.<lb/>das
+                    filmgeschäft ist ohnehin ein bettelgeschäft, auf höherer ebene.<lb/>die bettler
+                    waren einst einfallslos, setzten sich vor eine kirche und hielten den hut auf.
+                    heute gründen sie filmgesellschaften und holen sich für allerhand projekte
+                    subventionen.</ref>
+            </p>
+            <p>besuch bei <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P74"
+                    >walter</persName>. gebadet in der sauna. wellenbad, stereoanlage,
+                millionenluxus. ein ausbeuter. die, von denen er lebt, beschimpft er gern als gauner
+                und tagediebe. ‚wenn wir (!?) arbeiten, dann tun wir es gern. die rühren keinen
+                finger umsonst.‘ wie denn auch, wo ihnen nichts gehört.</p>
+            <p>dieser freche, nörgelnde ton, den <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P224">eva</persName> immer
+                führt. ekelhaft.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3">svitak,
+                        <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P713"
+                        >goldstücker</persName>, <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P921">kohout</persName>,
+                    smrkovsky, sik – was für ein speichelleckergesindel mit dem dummkopf <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P714">dubcek</persName> an
+                    der spitze. was für ein glück für die menschheit, dass das sozialistische lager
+                    mit dieser brut abgefahren ist.</ref>
+            </p>
+            <p>neuer gipfel der heuchelei: <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P742">nixon</persName> wendet
+                sich an <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I11"
+                    >ussr</orgName>, die waffenlieferungen einzustellen.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T4">
+                    <persName type="anonymization">gw</persName>, ein guter genosse, aber er ist so
+                    dumm, dass er objektiv als zersetzer wirkt.</ref>
+            </p>
+            <p>
+                <gap reason="deleted" resp="#editor">
+                    <desc>[...]</desc>
+                </gap>
+            </p>
+            <p>morgen geht es los. kopilot gefunden. ein heterogener. – weder <persName
+                    type="anonymization">tk</persName> noch <persName type="anonymization"
+                    >et</persName> sondern <persName type="anonymization">yi</persName>. </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T4">april 1972:
+                    in der <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I3"
+                        >partei</orgName> in <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G213"
+                        >österreich</placeName> 21.000 mitglieder<lb/>davon 24% arbeiter in
+                    betrieben<lb/>14% angestellte in betrieben<lb/>62% nicht mehr im beruf stehende
+                    rentner und pensionisten. von den 38%, die im beruf stehen, sind nur etwa 13% in
+                    BO organisiert.<lb/>von 5000 grösseren industriebetrieben in <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G213">österr.</placeName>
+                    sind wir in nur 6% vertreten.<lb/>bei tausenden mitgliedern weiss man gar nicht,
+                    in welchem betrieb sie arbeiten.<lb/>altersmässige zusammensetzung: 6% bis 30
+                    jahre</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T4">
+                    <pb n="205" xml:id="T1972.11"/> 7,5% bis 31 und 40 a<lb/>18,7% 41–50 a<lb/>20,1%
+                    51–60 a<lb/>47% über 60 a</ref>
+            </p>
+            <p>
+                <date when-iso="1972-04-17">17.4.</date>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T9">montag 9
+                    uhr gingʼs los. mit <persName type="anonymization">yi</persName> nach <orgName
+                        ref="https://gams.uni-graz.at/o:wiesinger.institutions#I110"
+                        >jugoslawien</orgName>. um halb neun weckte ich sie im atelierhaus.
+                    verschlafen kam sie daher, schleppte einen berg bücher mit und los gingʼs. über
+                        <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G337"
+                        >windischgarsten</placeName> sonne. in krajn bruch der
+                    gashebel-bremshebelachse.<lb/>vor einem haus, in dem einer wohnte, der uns den
+                    schaden behob und eine neue achse aus edelstahl drehte und einbaute,
+                    aufenthalt.<lb/>3 bis 6 uhr (18 h) dann weiter verfahren bis 4 km vor
+                    pola.<lb/>nach neun endlich in <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G172">rijeka</placeName>
+                    und in einem hotel ausserhalb, gegessen und dann übermüdet ins bett. ich konnte
+                    grad noch ihre hand auf mein ding legen. sie schlief blitzartig ein, ich nach
+                    einem gehörigen aufregenden erguss unter ihren fingern auch.<lb/>6 uhr früh
+                    weiter. pause bei <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G175">zadar</placeName>,
+                        <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G173"
+                        >split</placeName> etwa um 12h. kleine kollision ohne sichtbaren schaden im
+                    mittagsstadtverkehr.<lb/>dann <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G139">vela
+                    luka</placeName>, wo ich sie überall als meine schwester vorstellte. ich lernte
+                    sie als lieben, etwas verrückten menschen kennen, sie war allerdings in den
+                        <persName type="anonymization">lw</persName> verliebt, den sie verliess, um
+                    die reise mit mir zu machen. sie weinte oft, weil sie fürchtete, ihn zu
+                    verlieren. naja.<lb/>wir verlebten herrliche tage. bad im meer, vögelei auf der
+                    terrasse in der sonne, kocherei gemeinsam. wenn sie pisste, hielt ich ihr gern
+                    die hand unter die fut. bootsfahrten, essereien und saufereien.<lb/>ihre scheide
+                    ist relativ gross, eine, die geboren hat, aber sie kannʼs.<lb/>vor allem braucht
+                    man nicht zu warten. wenn ich spritze, kommtʼs ihr sofort auch. die vögelei auf
+                    der terrasse war herrlich, zwei körper in extase und rhythmischer
+                    bewegung.<lb/>sie ist auch sehr klug.<lb/>rückfahrt mit schiff, stürmische see.
+                    sie blutet. regel. in split suchen wir klo, weil sie schon blutig ist durch hose
+                    und mantel, dann pocitel. kleiner streit. aale. dann <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G341">mostar</placeName>.
+                    weiter um 5 durch irrtum nicht nach <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G338">sarajewo</placeName>,
+                    sondern mitten durchs gebirge in kurzer zeit auf 1300 meter hoch mit schnee. der
+                    pass makljön. partisanengebiet. 50 kilometer in zwei stunden, dann übernachten
+                    und tischpost und ansaufen in <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G339">gornij
+                        vakuf</placeName>. versuch einer vögelei. wir waren zu müde. um vier uhr
+                    früh kam sie und lehrte mich eine neue stellung: schräg von der seite auf der
+                    seite liegend mit der eichel im vorhof der scheide und nur wenig in die scheide
+                    hinein. lange machten wirʼs so. ein herrliches ergebnis, das sie
+                    aufregte.<lb/>frühstück und weiterfahrt. der wirt schien sie dabehalten zu wollen.<lb/>
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P415"
+                        >tito</persName> raste vorbei und hielt uns zwei stunden auf, da strassen
+                    gesperrt waren. auf der fahrt nach jaice mit konvoi. jahrestag der
+                    republikgründung. <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G340">banja
+                        luka</placeName>, autobahn, <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G202">zagreb</placeName>
+                    bis <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G196"
+                        >laibach</placeName>. abendessen, spaziergang, weiter bis krajjn.<lb/>ich
+                    ging ins hotel essen, während sie sich frisch machte. da kam sie, und ich
+                    stürzte auf sie zu, weil sie zu einem anderen tisch ging. aber sie war es nicht.
+                    eine mystifikation, die die aufmerksamkeit des ganzen lokals auf mich
+                    lenkte.<lb/>nächsten tag weiter heim. auf dem loibl meinte sie, jetzt möchte sie
+                    sich lieben lassen, aber ich war nicht in stimmung, sie wohl auch nicht recht.
+                    die reise ist anstrengend.<lb/>sie scheint sich verliebt zu haben.</ref></p>
+            <p>mittwoch <date when-iso="1972-05-03">3.5.</date>
+            </p>
+            <p>
+                3 uhr nachts. <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P224"
+                    >eva</persName> tobt und schreit wegen telefonanrufen durch <persName
+                    type="anonymization">yi</persName>. beschimpft mich masslos, alter depp, idiot
+                etc. wegen nichts, weil sie ja nichts weiss.</p>
+            <p>
+                <pb n="206" xml:id="T1972.12"/> ist <persName type="anonymization">yi</persName>
+                eine nymphomanin? sie küsst und streichelt und vernascht jeden. die jüngsten knaben.
+                (sie sind alle meine kinder.)<lb/>
+            </p>
+            <p>heute am <date when-iso="1972-05-06">6.5.</date>
+            </p>
+            <p> brieflich mit ihr schluss gemacht. ich liebe sie zu sehr, um weiter diese folter mitzumachen.<lb/>
+                <persName type="anonymization">yi</persName> aussprüche: mich haben zwei männer
+                gevögelt, da kommt was zusammen.<lb/>ich hab mich aus kollegialität vögeln lassen.
+                (grosse geste) na komm.<lb/>halt – weil sie es brauchen, meine kinder. <lb/>du
+                suchst nur deine jugend.<lb/>vielleicht wird sie nur mit jünglingen fertig, weil die
+                dumm und feig genug sind, alle ihre launen hinzunehmen. oder weil sie ihnen
+                gleichgültig ist, hauptsache sie können ihre lust mit ihr stillen.<lb/>und vor allen
+                tanzt sie nackt herum.<lb/>glücklich der, der sie los wird.</p>
+            <p>die vietnamesische offensive geht weiter. eine grossartige leistung dieses hundertmal
+                totgesagten volkes. </p>
+            <p>ich liebe sie unendlich. es ist eine fürchterliche liebe, wir leiden beide. weil wir
+                wissen, dass wir einander nicht halten können.<lb/>ich verlange von ihr eine
+                entscheidung, die sie nicht treffen kann oder mag.</p>
+            <p>la fete continue mit <persName type="anonymization">yi</persName> und in <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G14">vietnam</placeName>.</p>
+            <p>fahre für die russische ddsg. am 23.5. nach <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G141">wien</placeName>.
+                reifenplatzer bei 150 km (vw 16 tln).<lb/>bekomme 20 ös die stunde.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T7">am 23. kam
+                    der 
+                <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S404">bauernroman</term>
+                </hi> auf den
+                    markt. sehr schöne ausgabe.<lb/>da schauen sie alle und können neid und
+                    missgunst nur schwer verbergen.</ref>
+            </p>
+            <p>
+                <gap reason="deleted" resp="#editor">
+                    <desc>[...]</desc>
+                </gap>
+            </p>
+            <p>die selbstsicherheit der frauen kommt aus ihrem loch, das so begehrt ist bei alt und
+                jung.</p>
+            <p>das leben braucht versöhnung, sagte <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P922">brandt</persName>, es
+                darf nicht dem terror zum opfer fallen. diese heuchler.<lb/>sein wort in <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P742">nixons</persName>
+                ohr.</p>
+            <p>harte zeiten in <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G139"
+                    >vela luka</placeName>.<lb/>alle erzählen <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P224">eva</persName>, ich wäre
+                mit meiner schwester in <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G139">vela luka</placeName>
+                gewesen. </p>
+            <p>habe <persName type="anonymization">yc</persName> von <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G139">v. l.</placeName> aus
+                noch ein ultimatum gestellt, zu kommen und für immer bei mir zu bleiben oder es ist
+                aus.<lb/>es ist aus.</p>
+            <p>september.<lb/>nach dem urlaub.<lb/>nun kaufe ich eine jacht. 7,10 mt lang, 265
+                breit, die seefahrt ermüdet auch, aber sie ist aufregender und lustiger auf die
+                dauer.<lb/>das boot ist treu.</p>
+            <p>die zwei lustigsten geschichten sind <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P923">joseph
+                    conrads</persName>
+                <hi rend="italic">jugend</hi> und <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P115">hemingways</persName>
+                <hi rend="italic">belle esprit</hi>.</p>
+            <p>ich lebe im bürgerlichen sumpf. zu spät, neu als arbeiter anzufangen. glückliches
+                proletariat, das die zukunft vor sich hat.</p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P10">koller</persName>
+                ist in <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G145"
+                    >salzburg</placeName>. magazineur, galerie, er wird die <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S543">salzburger</term>
+                <pb n="207" xml:id="T1972.13"/>
+                <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S543">festspiele</term>
+                reorganisieren. </p>
+            <p>
+                <gap reason="deleted" resp="#editor">
+                    <desc>[...]</desc>
+                </gap>
+            </p>
+            <p>
+                <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S443">in münchen haben araber
+                    zwei israelis im kampf erschossen</term>. die welt steht kopf, alle reden und
+                triefen von phrasen. auch der kleine mann und die kleine frau sind empört. von
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G14"
+                    >vietnam</placeName> redet keiner.</p>
+            <p>die auseinandersetzungen in <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G139">vela luka</placeName>
+                über <persName type="anonymization">yi</persName> zeigten <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P224">eva</persName> von ihrer
+                hässlichsten seite. wenn das liebe ist ...?<lb/>sie soff bis zur besinnungslosigkeit
+                und beschimpfte mich. blöder hund, trottel, kleines hirn, grosser schwanz usw.</p>
+            <p>viele freuen sich, wenn jemand sagt, sie sähen jung aus, und bedenken nicht, dass der
+                nicht die glätte der haut, sondern die arbeit des gehirns meinte.</p>
+            <p>die jugend hat keine formen mehr, nur unsere künstler erstarren in modernistischen
+                formen. </p>
+            <p>habe kabinenboot bestellt, etwa 180.000 ös.<lb/>die fahrten in der bucht von
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G139">v.
+                    l.</placeName> genügen mir nicht mehr.</p>
+            <p>hans und nina waren in <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I110"
+                    >jugoslawien</orgName> und vier jungsozialisten.</p>
+            <p>besuch bei <persName type="anonymization">yi</persName>. neue welten, <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G302">türkei</placeName>,
+                kramer oder kremer, neue flaschen. neue entschlossenheit und unsicherheit. arme
+                    <persName type="anonymization">yi</persName>.<lb/>sie wäre eine herrliche
+                frau.</p>
+            <p>am 2.8.72 starb <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P145"
+                    >ernst fischer</persName>, gelebt als held, gestorben als clown des <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S469"
+                >kapitalismus</term>.<lb/>armseliger abstieg eines einst intellektuellen.</p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P224">eva</persName>
+                meint, alle sagen, dass ich ein homosexueller bin. und sie meint, ich wollte das mit
+                meinen weibergeschichten verdunkeln. kurios.</p>
+            <p>eine lehrerin aus <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G141"
+                    >wien</placeName>: ich liebe die russen nur, wenn sie von tschechen im eishockey
+                besiegt werden.</p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P924">goetz
+                    friedrich</persName> inszenierte in <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S544">bayreuth</term>
+                <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S444">tannhäuser</term>.
+                sofort drohte der staat bayern (weil am schluss arbeiter auftreten) mit einer sperre
+                der subventionen.</p>
+            <p>in <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G139">vela
+                    luka</placeName> starb mit 52 <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P1013">severin
+                    bjelic</persName> an herzinfarkt. er war ein film- und bühnenschauspieler. nun
+                ist er tot.</p>
+            <p>grosser künstlerzirkus durch <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P1014">omcikus</persName>, den
+                maler aus der grossen bucht. </p>
+            <p>eupholiat – erleichterungsmittel.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T7">die neider
+                    sind wieder am werk, weil das buch so schön gelungen ist.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">die
+                    bürgerliche gattin glaubt mit der heirat eine leibeigenschaft des mannes zu
+                    erwerben. dem ist nicht so. es ist nicht verboten, auch andere damen körperlich
+                    zu beglücken.<lb/>es ist das natürlichste von der welt, dass jeder vögelt, wo er
+                    kann.</ref>
+            </p>
+            <p>maestral 7 steht auf dem programm. nun heisst es sparen.</p>
+            <p>das verkrüppelte kind von heute: wird es in zehn jahren einem bombenflieger die hand
+                küssen, wenn er auf sightseeing-tour nach <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G14">vietnam</placeName>
+                kommt?<lb/>wenn es frieden gibt in <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G14">vietnam</placeName>, dann
+                wird die rüstungsmafia das grosse geschäft an die coca-cola- und kaugummimafia
+                abgeben müssen.</p>
+            <p>wenn die zölle steigen, sagen die kaufleute entrüstet: wir müssen mit den preisen
+                hinaufgehen, wenn die zölle fallen, dann sagen sie entrüstet das gleiche.<lb/>der
+                alte kaufmännische grundsatz ‚je höher der umsatz, umso niedriger die preise‘ gilt
+                schon lang nicht mehr.</p>
+            <p>
+                <pb n="208" xml:id="T1972.14"/>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3"><persName
+                        type="anonymization">bl</persName> ist eine proamerikanerin, der alles an
+                        <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G21"
+                        >amerika</placeName> gefällt in ihrer unkritischen dummheit. auch jedes
+                    verbrechen von den amis nimmt sie als ‚logisch‘ hin.<lb/>weil antikommunismus
+                    die triebkraft des proamerikanismus ist. die <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G21">usa</placeName> sind
+                    der hort und der schirm der kommunistenfresser.</ref>
+            </p>
+            <p>wamperter herrschaftskrüppel, salonstrizzi, schafottpflanzerl.</p>
+            <p>
+                <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G324">chile</placeName>
+                – die reaktion dreht auf. satte bürgerweiber demonstrieren unverschämt. wo bleibt
+                die revolutionäre gewalt, die dieses gesindel zum schweigen bringt? besser hundert
+                tote kapitalistenhunde als tausende tote proleten.</p>
+            <p>die frau wird im <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S469"
+                    >kapitalismus</term> darauf gedrillt, ‚seiner‘ arbeitskraft mit regenerieren zu
+                helfen. der mann wird der frau als scheinfeind, quasi als ihr unterdrücker,
+                dargestellt.<lb/>aber der wirkliche, grosse, gemeinsame feind ist der
+                kapitalistische ausbeuter.</p>
+            <p>die kleinen <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I2"
+                    >sp</orgName>-mitglieder haben schon wieder einen proamerikanischen und
+                unmenschlichen trick auf lager.<lb/>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P742">nixons</persName>
+                wahlschmäh, dass er frieden schliessen will, hat sich noch nicht als trick erwiesen.
+                aber er wird frieden schliessen müssen.<lb/>
+                <persName type="anonymization">bl</persName> meint: was wird im falle eines
+                friedensschlusses dann der <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I109">vietkong</orgName>
+                wieder aufführen?<lb/>als ob die nicht in <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G14">vietnam</placeName>
+                zuhause wären im gegensatz zu den amis.</p>
+            <p>dass die amis alles veröffentlichen, was sie selber als untaten und verbrechen
+                treiben, ist kein verdienst der ‚demokratie‘, wie die irregeführten meinen, die
+                dergleichen hochjubeln. das ist eher ein hinweis auf die zerrissenheit der nation,
+                des volkes, der gesellschaftsschichten.<lb/>immer findet sich einer, der alles
+                vernadert.<lb/>uneinigkeit.<lb/>zerfall.</p>
+            <p>gangster wie du und ich – eine rubrik, die es in <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S516">readers
+                        digest</term>
+                </hi> nicht gibt.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T7">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S404">max maetz</term>,
+                    förderungspreis der <hi rend="italic">
+                        <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S545">westermann
+                            monatshefte</term>
+                    </hi>. mit photo.<lb/>ein smarter bursche.</ref>
+            </p>
+            <p>wer zu sich selber kein vertrauen hat, hat es auch nicht zu anderen.</p>
+            <p>nur wer keine angst hat, gevierteilt zu werden, kann den kaiser vom ross holen
+                    (<persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P389"
+                    >mao</persName>).</p>
+            <p>die sozialdemokraten haben angst. nicht nur vorm gevierteltwerden.</p>
+            <p>der koloss monarchie brach zusammen. der <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S469">kapitalismus</term> liegt
+                bereits auf den knien. er wäre schon tot, lebte er nicht von seinen bluttaten über
+                gebühr weiter.</p>
+            <p>je mehr <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P742"
+                    >nixon</persName> vom frieden redet, umso mehr bombardieren die ami <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G14">vietnam</placeName>.</p>
+            <p>5000 ös vom bfu durch herrmann. wenn ich nicht das grosse staatsstipendium bekomme,
+                schautʼs schlecht aus um das boot.</p>
+            <p>der grundvertrag <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I9"
+                    >ddr</orgName>-<orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I46">brd</orgName> ist
+                ein sieg des sozialistischen lagers, und was für einer. nun lebt sie, die
+                ‚sogenannte‘, die bisher unaussprechliche <orgName
+                    ref="https://gams.uni-graz.at/o:wiesinger.institutions#I9">ddr</orgName>.</p>
+            <p>wie nah sind uns manche tote, wie tot sind uns manche, die leben.</p>
+            <p>sein privatleben ist ihm ein kampf<lb/>der lebenskampf aber privatsache (<persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P925">huppert</persName>).</p>
+            <p>
+                <pb n="209" xml:id="T1972.15"/> wir haben <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P719">kennedy
+                    robert</persName> erschossen.<lb/>wir haben auch <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P2">j. f.</persName> kennedy
+                erschossen.<lb/>und da heisst es, wir sind rassisten ... (<persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P925">huppert</persName>).</p>
+            <p>verlass ist nur auf die naturgesetze (<persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P66">bb</persName>).</p>
+            <p>die konservativen haben doch ein pech. immer stossen sie wieder auf nullen, die ihnen
+                den preis in keiner weise zu honorieren vermögen.<lb/>oder auf könner, die ihnen den
+                preis sofort um die ohren schlagen, wie vor jahren <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P535">bernhard</persName> und
+                jetzt <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P926"
+                    >brandstetter</persName>.</p>
+            <p>us-wahlen:<lb/>200 mio einwohner<lb/>140 mio wahlberechtigte<lb/>96 mio (nur)
+                registrierte wähler<lb/>76 mio gingen wirklich wählen<lb/>44 mio davon wählten
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P742"
+                    >nixon</persName>
+                <lb/>und dieses dürftige ergebnis wird noch hochgejubelt. </p>
+            <p>erfolge und glückliche stunden muss man der zukunft entreissen.</p>
+            <p>all die seltsamen theorien wie jetzt wieder die <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S408"
+                >konvergenztheorie</term>.<lb/>wo ist der staat, der nach den prinzipien unserer
+                sogenannten freien wirtschaft lebt? man hat immer gelernt, höhere umsätze,
+                niedrigere preise. im gegenteil. je mehr sie umsetzen, umso mehr wollen sie
+                verdienen und gehen mit den preisen hoch.<lb/>oder die freiheit der niederlassung.
+                der öffnungszeiten – das ist doch alles gar nicht mehr wahr. der eintrittspreise.
+                der freie wettbewerb ist doch zum lachen. hält einer eine stunde länger offen, haut
+                man ihm schon auf die finger. macht ein kino niedrigere preise, boykottiert man
+                es.</p>
+            <p>aus hobby: 50% aller pariser wohnungen sind ein- oder zwei-zimmer, 23% kein wasser.
+                52% keine toiletten. 80% weder dusche noch bad.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T2">am tag der
+                    offenen tür sagte der ‚volksbürgermeister‘ <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P702"
+                    >hillinger</persName>:<lb/>es sei zu hoffen, dass der kommunistische gemeinderat
+                    in der nächsten periode nicht mehr vertreten sein werde.<lb/>ein muster
+                    demokratischer gesinnung, wie sie sie meinen.<lb/>kleinlich, gehässig,
+                    engstirnig.</ref>
+            </p>
+            <p>die russen sind brotesser. kaum gibt es getreideengpässe, ist das fast soviel wie
+                eine hungersnot. es regnet in den getreideanbaugebieten nicht, gründe genug, um die
+                westliche presse aufjubeln zu lassen über das ‚versagen des <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S6">kommunismus</term>‘.<lb/>
+                <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I11">ussr</orgName>:
+                bedarf von acht zentner brotgetreide pro kopf und jahr.</p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P889"
+                    >koestler</persName> brachte es als clown weiter als <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P145">ernst
+                fischer</persName>. er wurde jetzt sogar von der englischen königin geadelt, d. h.
+                er liess es zu, dass man ihn so mit dreck bewarf.<lb/>‚fei ganz einfach wi a katz
+                sei‘, rät ebermayr einem freund.</p>
+            <p>fettpolster sind kein zeichen von ‚wohlstand‘, sondern von dummheit.<lb/>auch nicht
+                von gesundheit.<lb/>bei kindern: von dummheit der mutter.</p>
+            <p>als ich der hanna vor jahren erzählte von dem prügelpolizisten, der einen jungen mann
+                georfeigt hatte, auf der strasse, sagte sie: gschiecht ihm eh recht. denen kehrt nix
+                anders.<lb/>sie sieht weniger ‚menschlich‘ als ihr <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S281">kz</term>
+                </hi>-genosse hübl. oder ist das alles nur mache?</p>
+            <p>in den <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S81">oön</term>
+                </hi> erzählt ein ‚armer flüchtling‘, dass er von der miliz noch mehr rubel beim
+                verkauf seines hauses rausschlagen konnte, als vorgesehen war.<lb/>sicher sind die
+                sowjets froh, diesen kerl loszuwerden.<lb/>und er? der wird schaun, wie frei er im
+                westen ist.<lb/>apropos flüchtlinge: alle in <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G213">österreich</placeName>.
+                daher die kriminalität.</p>
+            <p>
+                <pb n="210" xml:id="T1972.16"/>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P287"
+                    >hochhuth</persName>: wo demokratie nicht mehr kampf ist, dort wird (oder ist
+                sie schon) korruption.</p>
+            <p>man kann den <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S469"
+                    >kapitalismus</term> nicht durch persönliche aktionen bekämpfen und wären sie
+                noch so wild. nur durch die straffe organisation der arbeiterklasse.</p>
+            <p>die kaufleute, die ach so freien, werden im westen ganz schön an die kette genommen,
+                an die ladenkette. westlich von eden.</p>
+            <p>
+                <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S546">ach, armer yorrick, ich
+                    kannte ihn, horatio</term>.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T1">
+                    <hi rend="italic">faust:</hi> denn alles, was entsteht, ist wert, dass es
+                    zugrunde geht.<lb/>ein wahrhaft genialer und umfassender satz.<lb/>im <term
+                        ref="https://gams.uni-graz.at/o:wiesinger.terms#S6">kommunismus</term> wird
+                    auch dieser satz seine gültigkeit verloren haben. er entsteht und ist wert, dass
+                    er bleibt.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T2">
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P927"
+                        >tumler</persName>, der sich ‚weltbürger‘ nennt, ging von <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G23">linz</placeName> nach
+                        <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G92"
+                        >berlin</placeName> und kommt von dort berühmt zurück. warum berühmt? wieso
+                    berühmt?<lb/>gartenlaube des XX. jahrhunderts, was ich gehört habe.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3">im <hi
+                        rend="italic">
+                        <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S36">kurier</term>
+                    </hi> schildert in einem us-reisebericht jemand die schmutzstarrende u-bahn.
+                    wenn sowas in <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G18"
+                        >moskau</placeName> wäre. dort sieht jeder reisende sofort jedes kleinste
+                    papierchen und lamentiert sofort, dass ‚der <term
+                        ref="https://gams.uni-graz.at/o:wiesinger.terms#S6">kommunismus</term> nicht
+                    fertig wird mit dem dreck‘.</ref>
+            </p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P702"
+                    >hillinger</persName> und konsorten hassen den <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P928">wipplinger</persName>,
+                den einzigen kommunistischen gemeinderat, weil er ihnen immer licht in ihre dunklen
+                geschäfte bringt. wie jetzt wieder die erhöhung ihrer gehälter. das ginge alles so
+                still vor sich ohne diese verdammten bolschewisten.<lb/>bürgermeister von 28.000 auf
+                48.000, die vizes von 24.000 auf 40.000,<lb/>die stadträte von 21.000 auf 36.000.
+                und <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P11"
+                    >schanovsky</persName>, im november von mir daraufhin angesprochen, meinte ‚i
+                hobs ja no net‘, und finanzreferent ahamer meinte schlicht: wos glaubst, wos mir do
+                bleibt?<lb/>höchstens 25.000. alles andere frisst die steia.</p>
+            <p>ein millionär gibt kein geld her, wenn er darum gebeten wird. aber er versteht es,
+                welches zu organisieren bzw. zu vermitteln kraft seines namens.<lb/>bei den armen
+                leuten istʼs umgekehrt. die können kein geld organisieren.<lb/>sonst wären sie nicht
+                arm, aber sie können von dem wenigen, das sie haben, noch welches geben. und tunʼs
+                meist auch.</p>
+            <p>jeder dritte baum der welt steht in sibirien.</p>
+            <p>alle ausbeuter haben wir vernichtet und verjagt, aber noch nicht alle dummköpfe,
+                meinte ein sibirer.</p>
+            <p>das wesen der welt erschöpft sich nicht in guten proleten und schlechten
+                kapitalisten.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T2">
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P615"
+                        >gsöllpointner</persName> rief überstürtzt an und fragte, ob ich mit
+                        <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P13"
+                        >heinrich</persName>, <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P929"
+                        >seidlhofer</persName>, <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P73">dunkl</persName>
+                    lesen möchte. sagte zuerst zu, überlegte mirʼs dann aber. entweder allein oder
+                    gar nicht. und für geld. nur für geld. nicht zum spass. <lb/>eine frechheit,
+                    eine zumutung, mich mit diesen dilettanten zusammenkoppeln zu wollen.<lb/>dann
+                    sagte <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P13"
+                        >heinrich</persName> ab mit dem hinweis auf seine lesung im römerhof. dann
+                    sagte die <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P73"
+                        >dunkl</persName> ab, weil sie endlich ein büchl auf dem markt hat und
+                    grössenwahnsinnig wird. dann blieb als letztes kleines negerlein die arme
+                        <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P929"
+                        >seidlhofer</persName>.</ref>
+            </p>
+            <p>‚echtes leder‘, echte artischocken, echt silber – solche auszeichnungen sind in den
+                geschäften echte (!) beweise für die vertrauensseligkeit der käufer, die auf solche
+                schildchen blindlings hineinfallen.<lb/>das sind leute, die ein schildchen brauchen,
+                um etwas echtes zu erkennen. </p>
+            <p>
+                <pb n="211" xml:id="T1972.17"/>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P930"
+                    >schönberg</persName> warf <persName
+                    ref="https://gams.uni-graz.at/o:wiesinger.persons#P324">eisler</persName> einmal
+                vor: ‚... dass erwachsene menschen besseres zu tun haben sollten als
+                weltverbesserungstheorien zu vertreten. ich würde ihn wie einen dummen jungen aufs
+                knie legen und ihm 25 heruntermessen ...‘<lb/>diese isolierte eitelkeit der
+                künstler. wollen sie denn in ihrer grenzenlosen naivität und selbstherrlichkeit
+                alles so lassen, wie es ist?<lb/>und wenn sie die notwendigkeit der verbesserungen
+                erkennen: wer soll sie durchführen, durchdenken, als erwachsene reife
+                menschen?<lb/>statt dass sie froh sind, dass es auch denker und verbesserer gibt und
+                nicht nur sie, weltfremde spinner. wovon lebten sie denn, die guten? aber nichts als
+                grosse töne spucken.<lb/>und immer gleich brutal werden. ‚25 heruntermessen‘.
+                typisch. denken oder verbessern nicht. prügeln und frotzeln.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T2">den preis
+                    des landes nicht bekommen. ich habe eigentlich sehr damit gerechnet, weil ich
+                    das geld für das boot brauchte, aber die <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P298"
+                        >fussenegger</persName>.<lb/>bei der jury, <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P253">zusanek</persName>,
+                        <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P931"
+                        >jungwirth</persName> und <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P635"
+                        >großschopf</persName> – was will man da?<lb/>sie hassen mich ja wie die
+                    pest und sind beschränkt genug, das preiswürdige an der <term
+                        ref="https://gams.uni-graz.at/o:wiesinger.terms#S404"
+                    >max-maetz</term>-leistung nicht zu sehen.</ref>
+            </p>
+            <p>podzeit kam im oktober viermal und wollte von mir ideen und zusage und liess seither
+                nichts mehr hören. komisch.</p>
+            <p>
+                <date when-iso="1972-12-19">19.12.</date>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3">die wahlen
+                    in den <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G21"
+                        >usa</placeName> sind vorüber, in den vereinigten gangster-staaten. und
+                    schon gehen wieder die ungeheuren bombardements <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G14">vietnams</placeName>
+                    los. hat wirklich jemand <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P742">nixons</persName>
+                    lügen geglaubt?</ref>
+            </p>
+            <p>bei oberreg.-rat pömer gewesen. er bat mir geld an. bravo. wieder eine lücke weniger
+                im bootsfinanzierungsplan. insgesamt wird mein schwimmendes zweithäuschen etwa
+                15.000 ös kosten.</p>
+            <p>
+                <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S445">babij jar</term>
+                </hi> gelesen. unglaublich, aber grenzenlos abstossend, was diese deutschen
+                faschisten für menschen waren. menschen?<lb/>und derartiges verteidigt jeder mit,
+                der antikommunist ist, der sich nicht entschieden auf seite des sozialismus
+                stellt.<lb/>und einmal hat man es verstanden, <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S220">babij jar</term> so
+                darzustellen, als wäre das ein massengrab, das die russen zu verantworten haben. </p>
+            <p>aus den militärpapieren ging hervor, dass der ehemalige reichskriegsminister kenntnis
+                hatte, dass <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P128"
+                    >hitler</persName> im 1. weltkrieg trotz tapferkeit wegen homosexueller
+                betätigung von der beförderung zum uffz ausgeschlossen war.<lb/>darum liess dieser
+                spiesserische verbrecher so krampfhaft in <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G23">linz</placeName> nach
+                seinen militärakten suchen und sie beschlagnahmen, als er 1938 nach <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G23">linz</placeName> und
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G141"
+                    >wien</placeName> kam.</p>
+            <p>die weihnachtliche bombardierung <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S497">nordvietnams</term>
+                erreicht einen gigantischen höhepunkt. und der amerikanische zynismus blüht. ein
+                kriegsgefangenenlager wurde getroffen. pressechef des <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S511">weissen hauses</term>
+                ziegler meinte: <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S497"
+                    >nordvietnam</term> verletzt die <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S409">genfer konvention</term>,
+                indem sie kriegsgefangenenlager dorthin bauen, wo bomben fallen.<lb/>die
+                nordvietnamesische regierung hat sich die bombenangriffe selber zuzuschreiben, weil
+                sie nicht auf die konstruktiven (?!) vorschläge der <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G21">usa</placeName>
+                eingeht.<lb/>unheimlich.<lb/>und unsere österreichischen ‚humanisten‘ schweigen, wo
+                sie doch sonst alles so gern ‚menschlich‘ sehen.<lb/>gut so. ich kann ihre phrasen
+                ohnehin nicht mehr hören, ohne krämpfe zu kriegen.<lb/>dr. kohl hat (als jurist) das
+                friedensgeschwätz der <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G21">usa</placeName>
+                geglaubt.<lb/>nun ist es ihm peinlich, wenn man davon redet.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T7">und frau
+                    brause hat den weihnachtsfilm von <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P259">geyer</persName>
+                    nach einer kurzgeschichte von mir aufgeführt. da ihr der film zu aktuell war,
+                    schnitt sie alles heraus, was mit dem krieg, dem <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P550">papst</persName>,
+                        <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G14"
+                        >vietnam</placeName> usw. zusammenhing. also alles wesentliche.</ref>
+            </p>
+            <p>
+                <pb n="212" xml:id="T1972.18"/> in der redaktion haben <persName
+                    type="anonymization">ne</persName> und <persName type="anonymization"
+                    >sz</persName> sitzdienst in der woche vor weihnachten. keiner verlässt den
+                sessel oder die redaktion, denn es könnte sein, dass ein bote einer firma etwas
+                bringt und er sieht nichts davon. sie sind von einer ungeheuren gier besessen. nicht
+                nur in der <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S518">nz</term>
+                </hi>-redaktion, in allen anderen redaktionen auch. nur bei uns unter kommunisten
+                würde ich halt sagen: teilen wir uns die aufkommenden alkoholika und andere
+                genussmittel und versteigern wir die anderen sachen, wobei der im parteirahmen und
+                lassen den erlös dem kinderland zukommen oder dem <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S93">kz</term>-verband oder
+                sonst einer politischen organisation.<lb/>sie kontrollieren sich lieber scharf
+                gegenseitig, ob ja nicht einer vom weihnachtskuchen mehr bekommt.<lb/>einmal sass
+                ich grad an der schreibmaschine, da kam <persName type="anonymization">to</persName>
+                und teilte whisky aus. er schaute herein und meinte: ist hier jemand von der
+                redaktion? die <persName type="anonymization">ub</persName> sagte blitzschnell: nein
+                nein, der nicht ...<lb/>aber da erkannte er mich schon, und ich bekam auch meine
+                flasche whisky.<lb/>schäbig, abends destille. </p>
+            <p>
+                <gap reason="deleted" resp="#editor">
+                    <desc>[...]</desc>
+                </gap>
+            </p>
+            <p>wieder eine woche nachtfahrten vorbei. es war sehr schön.</p>
+            <p>
+                <gap reason="deleted" resp="#editor">
+                    <desc>[...]</desc>
+                </gap>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T6">
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P716"
+                        >dürrenmatt</persName>: schreiben ist die entwicklung einer idee, die sich
+                    mit fortschreiten der arbeit immer strengeren gesetzen unterwerfen muss. alle
+                    pläne vom beginn der arbeit müssen dem spiel geopfert werden.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T6">ein
+                    romancier ist nach <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P716"
+                        >dürrenmatt</persName> ein langstreckenläufer. ein dramatiker ist ein
+                    mittelstreckenläufer, und ein kabarettist ist ein kurzstreckenläufer.</ref>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T6">für einen
+                    schriftsteller ist der 1. kreis der hölle, wenn er ein gewöhnliches stück sieht,
+                    der 2., wenn er ein schlechtes, und der 3., wenn er ein gutes stück schlecht
+                    inszeniert sieht, und der 4., der innerste, wenn er ein eigenes stück schlecht
+                    inszeniert sieht.</ref>
+            </p>
+            <p>apropos weihnachten: je ärmer einer ist, je weniger einer verdient, umso weniger
+                bekommt er zu weihnachten geschenkt. da ist alles bestens eingeteilt. nicht einmal
+                kalender bekommt der letzte mann ordentliche.</p>
+            <p>
+                <date when-iso="1972-12-23">23.12. </date>
+            </p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T4">der letzte
+                    samstag bei <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P158"
+                        >golob</persName> in jeder beziehung. die faschistischen sozitypen <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P76">kunz</persName>,
+                    gabriel, marr, kusznier umgeben ihn mit einer welle von wohlwollen. sie sind
+                    schuld, dass die partei zusperren muss, denn diese typen machten aus der
+                    globus-buchhandlung eine obstruktionszelle. ein glück, dass dieses loch
+                    ausgeräuchert wird.<lb/>ich bin mit dieser lösung zufrieden.<lb/>sie dürften
+                    etwas gewittert haben, dass ich sehr gegen dieses nest eingestellt bin und froh,
+                    dass man mit der buchhandlung auch den <persName
+                        ref="https://gams.uni-graz.at/o:wiesinger.persons#P158">golob</persName>
+                    ausschüttet.<lb/>wenn ich in die buchhandlung komme, raunen sie sich esoterisch
+                    zu (aber so dass ichʼs hören kann): aha, der spion, der aus der kälte
+                    kam.<lb/>als ich einmal trudes adresse wollte, sagte sie (und entriss mir den
+                    zettel): nein, zu dir hab ich kein vertrauen ...<lb/>
+                    <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P76">kunz</persName>
+                    ist verbitterter denn je. von der ersten seite des <hi rend="italic">
+                        <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S37">tagblatt</term>
+                    </hi> musste der <persName type="anonymization">(…)</persName> runter. nicht
+                    zuletzt dank meiner intensiven hetze gegen sein pro-amerikanisches geschreibsel.
+                    er starrt immer verbissen zu boden und lauert darauf, dass er korrigieren oder
+                    kontern kann. ein armer teufel.</ref>
+            </p>
+            <p>
+                <pb n="213" xml:id="T1972.19"/> mir prophezeit er wieder froh, dass ich mein haus in
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G139">v.
+                    l.</placeName> bald verlieren werde, weil die alles enteignen werden, die
+                jugoslawischen bolschewiken.<lb/>du lieber himmel, täten sie es doch, niemandem wäre
+                das lieber als mir.<lb/>aber er muss einen rasenden hass auf mich haben.<lb/>dabei
+                kann ich mit meiner lächerlichen kov-rente nur so leben, weil ich äusserst sparsam
+                bin und <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P224"
+                    >eva</persName> äusserst wirtschaftlich. ich habe nur mild geantwortet, dass die
+                bolschewiken es nie auf kleine weekendhäuschen abgesehen hatten. aber das begreift
+                dieser sture faschist nie.<lb/>hätte ich ihm gesagt, dass ich in mein schwimmendes
+                zweithaus übersiedle, das nahe 200.000 kostet, dann hätte es ihn zerrissen vor
+                neid.<lb/>ich verstehe eben zu sparen und sinnlos teure hobbys wie saufen in
+                wirtshäusern, die hab ich nicht.<lb/>nun ja, friede auf erden.<lb/>und die
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G21">usa</placeName>
+                bombardieren weiter.</p>
+            <p>und <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P592">ernst
+                    trost</persName> in der <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S281">kz</term>
+                </hi> vergleicht das mit der psychiatrischen versorgung von manischen autoren in der
+                    <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I11"
+                    >udssr</orgName>.<lb/>verrückte denker. </p>
+            <p>gerline brach sich einen fuss mit diesen neumodischen hohen schuhen.</p>
+            <p>
+                <gap reason="deleted" resp="#editor">
+                    <desc>[...]</desc>
+                </gap>
+            </p>
+            <p>
+                <pb n="214" xml:id="T1972.20"/>
+                <date when-iso="1972-12-28">28.12.</date>
+            </p>
+            <p> eine amerikanische gruppe hat festgestellt, dass es noch gar nicht wünschenswert
+                ist, ohne krieg auszukommen, denn die ökonomischen, ökologischen, biologischen
+                ressourcen sind noch zu schwach ... eine echte dekadenz-theorie.</p>
+            <p>die taktik der amerikaner seit einem jahr: heftig bombardieren, so stark an einem tag
+                wie sonst in monaten – und gleichzeitig wieder ruhe geben und vom frieden reden. so
+                können sich kaum protestwellen entwickeln, die ja immer notgedrungen ins leere
+                stossen müssen.<lb/>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P933">olof
+                    palme</persName> aus <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G235">schweden</placeName> hat
+                nicht zu unrecht das vorgehen der <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G21">usa</placeName> in
+                    <placeName ref="https://gams.uni-graz.at/o:wiesinger.places#G14"
+                    >vietnam</placeName> als völkermord bezeichnet. und <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S485">vietnam</term> mit <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S447">lidice</term> verglichen
+                und mit <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S4"
+                >auschwitz</term>.<lb/>nun sind die amis böse und haben schmollend ihren botschafter
+                abgezogen.<lb/>warum sich <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G19">china</placeName> oder die
+                    <orgName ref="https://gams.uni-graz.at/o:wiesinger.institutions#I11"
+                    >ussr</orgName> nicht heftiger engagieren? weil es darauf ankommt, den <term
+                    ref="https://gams.uni-graz.at/o:wiesinger.terms#S469">kapitalismus</term> zu
+                entlarven.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3"
+                    >schlagzeilen: sowjets in der klemme, lebensmittelmarken etc.<lb/>‚menschlich‘
+                    gesehen ist das die reine schadenfreude dieser menschlichen
+                    menschlich-seher.<lb/>geographisch nehmen sie es nicht genau. <placeName
+                        ref="https://gams.uni-graz.at/o:wiesinger.places#G205"
+                    >astrachan</placeName>, wo die lebensmittelmarken jetzt ausgegeben werden, liegt
+                    weit im norden, und auch im kaukasus waren starke schneeverwehungen. die
+                    klimatischen bedingungen interessieren die schreibsklaven des kapitals überhaupt
+                    nicht, wenn sie nur ihre schadenfreude befriedigen können: ‚sowjets in der
+                    klemme‘.</ref>
+            </p>
+            <p>die <hi rend="italic">
+                    <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S448">time</term>
+                </hi> wählt <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P742"
+                    >nixon</persName> zum mann des jahres.<lb/>wahrscheinlich weil er so
+                hervorragend die interessen der rüstungsmafia vertritt.</p>
+            <p>
+                <ref type="editorialNote"
+                    target="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8">eine ehe,
+                    die so lange hält, kann nur noch auf der basis gegenseitiger interessen
+                    funktionieren. sexuelle interessen dürften weitestgehend, bis auf primitive
+                    abreaktion, dahin sein.</ref>
+            </p>
+            <p>die sozialdemokratischen blätter entdecken plötzlich die askese.<lb/>für die kleinen
+                leute, die ohnehin nichts haben. sie selber, die hochbezahlten redakteure und
+                gewerkschafter, haben erfunden, dass bescheidenheit und konsumverzicht glücklich
+                macht. wahrscheinlich, weil sie schon jeden nötigen und unnötigen firlefanz
+                besitzen.<lb/>je mehr die kleinen leute sparen, umso sicherer bleiben die preise und
+                umso stabiler die bankkonten der gutverdienenden vermittlerschichte. die inflation
+                ist ein vorteil der reichen auf kosten der armen.</p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P468">jonas</persName>
+                meinte vor weihnachten: ICH hab keine angst vor der inflation.<lb/>no na. ich auch
+                nicht, wenn ich sein gehalt und seine stellung hab. das sind phrasen.<lb/>ausserdem
+                erhöhen sich ja unsere politiker ihre gehälter immer entsprechend, da gibt es kein
+                zurückbleiben.</p>
+            <p>ein irrsinn, wie viele kalender jede firma verschenkt. und wie viele kalender jede
+                firma von jeder firma bekommt.</p>
+            <p>der faschismus in den <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G21">usa</placeName> ist
+                partiell.</p>
+            <p>in zehn jahren <term ref="https://gams.uni-graz.at/o:wiesinger.terms#S485"
+                    >vietnamkrieg</term>: 50.000 tote <lb/>300.000 verwundete<lb/>400 milliarden
+                verschleuderter dollar<lb/>und nicht mitgezählt der schaden in <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G14">vietnam</placeName> und
+                der moralische (unzählbare) schaden für die <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G21">usa</placeName>.</p>
+            <p>
+                <persName ref="https://gams.uni-graz.at/o:wiesinger.persons#P373">jungk</persName>
+                sagt, er ist jude. er nennt die unterentwickelten völker die ‚anders‘ entwickelten,
+                und meint, der mensch ist grösser, als er von sich selber denkt. 90% der menschen
+                werden noch als vollzugsgehilfen missbraucht, gewaltanwendung ist
+                phantasieverzicht.</p>
+            <p>sylvester bei SM. nachts vor dem tor. ganz <placeName
+                    ref="https://gams.uni-graz.at/o:wiesinger.places#G23">linz</placeName>
+                explodiert unter leuchtraketen. wie ein bombardement. </p>
+        </body>
+    </text>
+</TEI>
