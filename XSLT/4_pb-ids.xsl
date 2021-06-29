@@ -2,7 +2,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:t="http://www.tei-c.org/ns/1.0"
     xmlns="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="xs t" version="2.0">
     
-    <!-- versieht Tagebuchseiten mit xml:ids und normalisiert Datum im when-iso-Attribut -->
+    <!-- versieht Tagebuchseiten mit xml:ids -->
     
     <xsl:template match="@* | node()">
         <xsl:copy>
