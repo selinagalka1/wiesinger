@@ -131,7 +131,6 @@
                         </xsl:call-template>
                     </xsl:for-each>
 
-                    <!-- es gibt auch noch einen Link im Excel. Wollen wir den da übernehmen? vielleicht auch mit einem idno? -->
                 </linkGrp>
             </item>
         </xsl:for-each>
