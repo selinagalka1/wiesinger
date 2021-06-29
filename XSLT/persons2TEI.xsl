@@ -110,9 +110,7 @@
                         <xsl:value-of select="t:cell[3]"/>
                     </forename>
                 </persName>
-                <!--<xsl:attribute name="role"><!-\- es gibt nicht überall eine Kategorie, wollen wir die überhaupt haben? -\->
-                    <xsl:value-of select="t:cell[7]"/>
-                </xsl:attribute>-->
+             
                 <xsl:if test="t:cell[4]/t:ptr">
                     <idno source="http://d-nb.info" type="URI">
                         <xsl:value-of select="t:cell[4]/t:ptr/@target"/>
@@ -129,8 +127,6 @@
                     </idno>
 
                 </xsl:if>
-
-                <!-- eventuell noch persName aus dem Text? unter persname type="alt" -->
 
                 <xsl:if test="t:cell[8] != ''">
                     <note>
