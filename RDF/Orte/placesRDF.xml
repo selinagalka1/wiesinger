@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:wiesinger="https://gams.uni-graz.at/o:wiesinger.ontology#"
+         xmlns:t="http://www.tei-c.org/ns/1.0"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:schema="https://schema.org/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:gams="https://gams.uni-graz.at/o:gams-ontology#"
+         xmlns:void="http://rdfs.org/ns/void#">
+   <void:Dataset rdf:about="https://gams.uni-graz.at/o:wiesinger.places">
+      <dcterms:title>Ortsregister Karl Wiesinger: Digitale Edition der Tagebücher</dcterms:title>
+      <dc:relation>https://gams.uni-graz.at/context:wiesinger</dc:relation>
+      <dc:creator>Karl Wiesinger</dc:creator>
+      <dc:contributor>Galka, Selina</dc:contributor>
+      <dc:description>Die digitale Edition der Tagebücher des Linzer Schriftstellers
+                        Karl Wiesinger stellt ein zeit-, literatur- und lokalgeschichtlich
+                        singuläres Zeugnis bereit: Wiesingers bislang unveröffentlichte
+                        Aufzeichnungen aus den Jahren 1961 bis 1973 dokumentieren sein Werden als
+                        literarischer und politischer Außenseiter im österreichischen Kulturbetrieb
+                        und geben auch Auskunft über den vom Kalten Krieg geprägten Alltag und die
+                        gesellschaftliche Atmosphäre im Linz der Nachkriegsära. Die digitale Edition
+                        ist mit umfassenden Informationen zu Leben und Werk des Autors sowie
+                        Kommentaren zu zentralen Aspekten der Tagebücher ausgestattet und ermöglicht
+                        über das Personen-, Orts-, Institutionen- und Schlagwortregister
+                        schwerpunktmäßige Recherchen bzw. transversale Lektüren.</dc:description>
+      <dc:language>de</dc:language>
+      <dc:publisher>Institut Zentrum für Informationsmodellierung, Universität Graz </dc:publisher>
+      <dc:rights>Creative Commons BY 4.0</dc:rights>
+      <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+      <void:feature rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+      <void:vocabulary rdf:resource="https://gams.uni-graz.at/o:wiesinger.ontology#"/>
+      <void:vocabulary rdf:resource="https://gams.uni-graz.at/o:gams-ontology#"/>
+   </void:Dataset>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G142">
+      <schema:name>Abwinden</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2783047/abwinden.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G158">
+      <schema:name>Agde</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3038638/agde.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G132">
+      <schema:name>Aigues-Mortes</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3038493/aigues-mortes.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G73">
+      <schema:name>Aix-en-Provence</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3038354/aix-en-provence.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G127">
+      <schema:name>Albon</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/12055378/albon.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G27">
+      <schema:name>Algerien</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2589581/people-s-democratic-republic-of-algeria.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G29">
+      <schema:name>Algier</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2507480/algiers.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G171">
+      <schema:name>Alkoven</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/7873114/alkoven.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G119">
+      <schema:name>Almsee</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2782762/almsee.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G68">
+      <schema:name>Alsace</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3038032/alsace.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G181">
+      <schema:name>Amstetten</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2782555/amstetten.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G67">
+      <schema:name>Andance</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3037749/andance.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G128">
+      <schema:name>Andancette</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3037748/andancette.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G30">
+      <schema:name>Angola</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3351879/republic-of-angola.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G185">
+      <schema:name>Appersberg</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2782449/appersberg.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G71">
+      <schema:name>Arles</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3036938/arles.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G205">
+      <schema:name>Astrachan</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/580497/astrakhan.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G55">
+      <schema:name>Augsburg</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2954172/augsburg.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G70">
+      <schema:name>Avignon</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3035681/avignon.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G182">
+      <schema:name>Bad Goisern</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2782055/bad-goisern.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G83">
+      <schema:name>Bad Hall</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2782054/bad-hall.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G62">
+      <schema:name>Belfort</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3033791/belfort.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G198">
+      <schema:name>Belgrad</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/792680/belgrade.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G92">
+      <schema:name>Berlin</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2950159/berlin.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G124">
+      <schema:name>Bern</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2661552/bern.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G153">
+      <schema:name>Bernhardsthal</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2781827/bernhardsthal.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G63">
+      <schema:name>Besancon</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3033123/besancon.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G108">
+      <schema:name>Bleckede</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2947894/bleckede.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G180">
+      <schema:name>Bochum</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2947416/bochum.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G184">
+      <schema:name>Bogotá</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3688689/bogota.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G82">
+      <schema:name>Bozen</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3181913/bolzano.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G166">
+      <schema:name>Bratislava</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3060972/bratislava.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G15">
+      <schema:name>Breclav</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3078773/breclav.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G16">
+      <schema:name>Brest</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/629634/brest.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G156">
+      <schema:name>Briancon</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3030142/briancon.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G207">
+      <schema:name>Buchara</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/1217662/bukhara.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G193">
+      <schema:name>Buchberg</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2781254/buchberg.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G201">
+      <schema:name>Budapest</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3054643/budapest.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G45">
+      <schema:name>Budweis</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3077916/ceske-budejovice.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G138">
+      <schema:name>Café Berger</schema:name>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G88">
+      <schema:name>Café Landgraf</schema:name>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G130">
+      <schema:name>Camargue</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3012872/ile-de-la-camargue.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G19">
+      <schema:name>China</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/1814991/people-s-republic-of-china.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G74">
+      <schema:name>Corniche</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/11101859/plage-de-la-corniche.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G17">
+      <schema:name>Dnjepr</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/565896/dnieper.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G90">
+      <schema:name>Dresden</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2935022/dresden.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G176">
+      <schema:name>Dubvrovnik</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3201047/dubrovnik.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G8">
+      <schema:name>Dürnstein</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2780604/duernstein.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G148">
+      <schema:name>Ebelsberg</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2780578/ebelsberg.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G105">
+      <schema:name>Eisenhüttenstadt</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2931481/eisenhuettenstadt.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G111">
+      <schema:name>Frankfurt/Main</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2925533/frankfurt-am-main.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G104">
+      <schema:name>Frankfurt/Oder</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2925535/frankfurt-oder.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G144">
+      <schema:name>Freilassing</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2925080/freilassing.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G114">
+      <schema:name>Freistadt</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2779275/freistadt.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G59">
+      <schema:name>Fribourg</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3017047/fribourg.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G131">
+      <schema:name>Frontignan</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3016956/frontignan.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G146">
+      <schema:name>Galerie Kontakt</schema:name>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G81">
+      <schema:name>Gardasee</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3176317/lago-di-garda.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G33">
+      <schema:name>Gasthaus zur Stadt Budweis</schema:name>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G126">
+      <schema:name>Genf</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2660646/geneve.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G79">
+      <schema:name>Genua</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3176219/genoa.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G136">
+      <schema:name>Gmunden</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2778436/gmunden.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G197">
+      <schema:name>Gradina</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/11049459/gradina.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G178">
+      <schema:name>Gramastetten</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2778133/gramastetten.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G133">
+      <schema:name>Grau du roi</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3003918/le-grau-du-roi.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G103">
+      <schema:name>Greifswald</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2917788/greifswald.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G149">
+      <schema:name>Grein</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2778039/grein.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G168">
+      <schema:name>Gröbming</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2777927/groebming.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G147">
+      <schema:name>Gusen</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2777220/gusen.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G96">
+      <schema:name>Hafen Hamburg</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/11887032/port-of-hamburg.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G95">
+      <schema:name>Hafen Rostock</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/9800762/rostock-port.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G117">
+      <schema:name>Hallein</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2776951/hallein.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G109">
+      <schema:name>Hannover</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2910831/hannover.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G150">
+      <schema:name>Haugsdorf</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/7871764/haugsdorf.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G112">
+      <schema:name>Heidelberg</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2907911/heidelberg.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G97">
+      <schema:name>Heiligendamm</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2907600/ostseebad-heiligendamm.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G160">
+      <schema:name>Hellmonsödt</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2776531/hellmonsoedt.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G46">
+      <schema:name>Hluboka / Frauenberg</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3075731/hluboka-nad-vltavou.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G25">
+      <schema:name>Indien</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/1269750/republic-of-india.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G38">
+      <schema:name>Innsbruck</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2775220/innsbruck.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G47">
+      <schema:name>Kaplice</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3073862/kaplice.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G163">
+      <schema:name>Kaplice</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3073862/kaplice.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G40">
+      <schema:name>Katowice</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3096472/katowice.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G116">
+      <schema:name>Kefermarkt</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2774582/kefermarkt.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G52">
+      <schema:name>Kollerschlag</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2773790/kollerschlag.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G140">
+      <schema:name>Köln</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2886242/koeln.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G187">
+      <schema:name>Korcula</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3197708/korcula.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G11">
+      <schema:name>Krems</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2773549/krems-an-der-donau.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G42">
+      <schema:name>Krumau</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3077889/cesky-krumlov.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G34">
+      <schema:name>Kuba</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3562981/republic-of-cuba.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G94">
+      <schema:name>Kühlungsborn</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2856193/ostseebad-kuehlungsborn.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G183">
+      <schema:name>La Paz</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3911925/la-paz.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G50">
+      <schema:name>Lambach</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/7872188/lambach.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G13">
+      <schema:name>Laos</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/1655842/lao-people-s-democratic-republic.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G204">
+      <schema:name>Lastovo</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3196752/otok-lastovo.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G123">
+      <schema:name>Lausanne</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2659994/lausanne.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G129">
+      <schema:name>Le Teil</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2999259/le-teil.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G194">
+      <schema:name>Leonding</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2772635/leonding.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G121">
+      <schema:name>Liechtenstein</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3042058/principality-of-liechtenstein.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G23">
+      <schema:name>Linz</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2772400/linz.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G196">
+      <schema:name>Ljubljana</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3196359/ljubljana.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G99">
+      <schema:name>Lübeck</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2875601/luebeck.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G208">
+      <schema:name>Lumbarda</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/11054970/lumbarda.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G107">
+      <schema:name>Lüneburg</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2875115/lueneburg.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G125">
+      <schema:name>Luzern</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2659811/luzern.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G65">
+      <schema:name>Lyon</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2996944/lyon.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G110">
+      <schema:name>Mannheim</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2873891/mannheim.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G84">
+      <schema:name>Marchtrenk</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2771962/marchtrenk.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G106">
+      <schema:name>Marienborn</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2873621/marienborn.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G60">
+      <schema:name>Marseille</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2995469/marseille.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G4">
+      <schema:name>Mauerbach bei Wien</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2771785/mauerbach.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G9">
+      <schema:name>Melk</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2771682/melk.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G159">
+      <schema:name>Meran</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3173577/merano.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G80">
+      <schema:name>Milano</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3173435/milan.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G51">
+      <schema:name>Minoritenkloster Wels</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2761524/wels.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G36">
+      <schema:name>Moabit</schema:name>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G118">
+      <schema:name>Mohacs</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3047967/mohacs.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G77">
+      <schema:name>Monaco</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2993457/principality-of-monaco.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G154">
+      <schema:name>Montpellier</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2992166/montpellier.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G18">
+      <schema:name>Moskau</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/524901/moscow.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G12">
+      <schema:name>Muckendorf</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2771146/muckendorf-an-der-donau.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G61">
+      <schema:name>Mühlhausen</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2868004/muehlhausen.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G20">
+      <schema:name>Mühlviertel</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2771054/muehlviertel.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G24">
+      <schema:name>München</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2867714/munich.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G161">
+      <schema:name>Neuhaus</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2770776/neuhaus.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G49">
+      <schema:name>Nimes</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2990363/nimes.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G76">
+      <schema:name>Nizza</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2990440/nice.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G43">
+      <schema:name>Oberplan </schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3075262/horni-plana.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G3">
+      <schema:name>Odessa</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/698740/odessa.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G199">
+      <schema:name>Ohio</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/5165418/ohio.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G192">
+      <schema:name>Ohlsdorf</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/7872015/ohlsdorf.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G152">
+      <schema:name>Olmütz</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3069011/olomouc.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G69">
+      <schema:name>Orange</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2989460/orange.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G120">
+      <schema:name>Ottensheim</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2769342/ottensheim.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G143">
+      <schema:name>Palais Palffy</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://de.wikipedia.org/wiki/Palais_P%C3%A1lffy_(Josefsplatz) "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G162">
+      <schema:name>Passau</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2855328/passau.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G174">
+      <schema:name>Peljesac</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3193511/peljesac.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G35">
+      <schema:name>Pere Lachaise</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/6452891/pere-lachaise-cemetery.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G137">
+      <schema:name>Prag</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3067696/prague.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G188">
+      <schema:name>Proizd</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3192315/otocic-proizd.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G179">
+      <schema:name>Puchenau</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2768275/puchenau.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G22">
+      <schema:name>Puerto Rico</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/4566966/puerto-rico.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G167">
+      <schema:name>Pürgg</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2768241/puergg.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G39">
+      <schema:name>Rappottenstein</schema:name>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G122">
+      <schema:name>Regau</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2767801/regau.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G87">
+      <schema:name>Regensburg</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2849483/regensburg.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G172">
+      <schema:name>Rijeka</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3191648/rijeka.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G54">
+      <schema:name>Rosenheim</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2844988/rosenheim.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G91">
+      <schema:name>Rostock</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2844588/rostock.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G195">
+      <schema:name>Rufling</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2766983/rufling.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G72">
+      <schema:name>Saintes-Maries-de-la-Mer</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2980325/saintes-maries-de-la-mer.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G145">
+      <schema:name>Salzburg</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2766824/salzburg.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G78">
+      <schema:name>San Remo</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3167777/san-remo.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G10">
+      <schema:name>Sarmingstein</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2766331/sarmingstein.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G169">
+      <schema:name>Schladming</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2765961/schladming.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G2">
+      <schema:name>Schloss Helfenberg</schema:name>
+      <schema:identifier rdf:resource="http://www.geonames.org/2780884/dobring.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G53">
+      <schema:name>Schloss Kleßheim</schema:name>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G170">
+      <schema:name>Schloß Trautenfels</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2763403/trautenfels.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G134">
+      <schema:name>Seewalchen</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/7873267/seewalchen-am-attersee.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G41">
+      <schema:name>Smolensk</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/491687/smolensk.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G48">
+      <schema:name>Spitz</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/7871804/spitz.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G173">
+      <schema:name>Split</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3190261/split.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G191">
+      <schema:name>St. Domingo</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3492908/santo-domingo.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G203">
+      <schema:name>St. Florian</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2771867/sankt-florian.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G1">
+      <schema:name>St. Marien-Nöstlbach</schema:name>
+      <schema:identifier rdf:resource="http://www.geonames.org/11609957"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G206">
+      <schema:name>St. Peter am Wimberg</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2766440/sankt-peter-am-wimberg.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G75">
+      <schema:name>St. Tropez</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2976742/saint-tropez.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G64">
+      <schema:name>St. Villard</schema:name>
+      <schema:identifier rdf:resource="https://de.wikipedia.org/wiki/Villard-sur-Doron"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G93">
+      <schema:name>Sternstein</schema:name>
+      <schema:identifier rdf:resource="https://de.wikipedia.org/wiki/Sternstein"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G98">
+      <schema:name>Stettin</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3083829/szczecin.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G86">
+      <schema:name>Steyr</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2764359/steyr.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G186">
+      <schema:name>Strakonice</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3065067/strakonice.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G100">
+      <schema:name>Stralsund</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2826287/stralsund.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G190">
+      <schema:name>Stroheim</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2764116/stroheim.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G31">
+      <schema:name>Südafrika</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/953987/republic-of-south-africa.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G32">
+      <schema:name>Südkorea</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/1835841/republic-of-korea.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G6">
+      <schema:name>Südtirol</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/3165244/trentino-alto-adige.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G115">
+      <schema:name>Summerau</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2763988/summerau.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G155">
+      <schema:name>Tamarissière</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2973453/bois-de-la-tamarissiere.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G5">
+      <schema:name>Tegel</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2823708/tegel.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G37">
+      <schema:name>Tegel</schema:name>
+      <wiesinger:note> Nach seiner Verhaftung aufgrund „wehrkraftzersetzender Aktivitäten“ saß
+                  Wiesinger im Militärgefängnis in Tegel ein. </wiesinger:note>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G89">
+      <schema:name>Teplice</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3064288/teplice.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G28">
+      <schema:name>Tirana</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3183875/tirana.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G177">
+      <schema:name>Traun </schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/7872061/traun.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G7">
+      <schema:name>Traunkirchen</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2763414/traunkirchen.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G164">
+      <schema:name>Trebon</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3064079/trebon.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G58">
+      <schema:name>Tuttlingen</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2820693/tuttlingen.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G57">
+      <schema:name>Ulm</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2820256/ulm.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G21">
+      <schema:name>USA</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/6252001/united-states.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G139">
+      <schema:name>Vela Luka</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/11054959/vela-luka.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G157">
+      <schema:name>Verdon-Schluchten</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2969970/gorges-du-verdon.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G66">
+      <schema:name>Vienne</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2969284/vienne.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G14">
+      <schema:name>Vietnam</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/1562822/socialist-republic-of-vietnam.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G26">
+      <schema:name>Villach</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2762372/villach.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G85">
+      <schema:name>Waizenkirchen</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2762060/waizenkirchen.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G200">
+      <schema:name>Waldhausen</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2762012/waldhausen-im-strudengau.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G44">
+      <schema:name>Wallern</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3062593/volary.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G102">
+      <schema:name>Warnemünde</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2814055/warnemuende.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G135">
+      <schema:name>Wels</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2761524/wels.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G141">
+      <schema:name>Wien</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2761369/vienna.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G101">
+      <schema:name>Wismar</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2807465/wismar.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G165">
+      <schema:name>Worms</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/2806142/worms.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G189">
+      <schema:name>Wuhan</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/1791247/wuhan.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G113">
+      <schema:name>Ybbs</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2760772/ybbs-an-der-donau.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G175">
+      <schema:name>Zadar</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3186952/zadar.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G202">
+      <schema:name>Zagreb</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3186886/zagreb.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G151">
+      <schema:name>Znaim</schema:name>
+      <schema:identifier rdf:resource="https://www.geonames.org/3061344/znojmo.html"/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+   <schema:Place rdf:about="https://gams.uni-graz.at/o:wiesinger.places#G56">
+      <schema:name>Zusmarshausen</schema:name>
+      <schema:identifier rdf:resource="&#xA;                  https://www.geonames.org/2803655/zusmarshausen.html "/>
+      <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.places"/>
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+   </schema:Place>
+</rdf:RDF>

@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wiesinger="https://gams.uni-graz.at/o:wiesinger.ontology#"
+  xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:schema="https://schema.org/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:gams="https://gams.uni-graz.at/o:gams-ontology#" xmlns:void="http://rdfs.org/ns/void#">
+  <void:Dataset rdf:about="https://gams.uni-graz.at/o:wiesinger.1962">
+    <dcterms:title>Tagebuch von 1962</dcterms:title>
+    <dc:relation>https://gams.uni-graz.at/context:wiesinger</dc:relation>
+    <dc:creator>Karl Wiesinger</dc:creator>
+    <dc:contributor>Galka, Selina</dc:contributor>
+    <dc:description>Die digitale Edition der Tagebücher des Linzer Schriftstellers Karl Wiesinger
+      stellt ein zeit-, literatur- und lokalgeschichtlich singuläres Zeugnis bereit: Wiesingers
+      bislang unveröffentlichte Aufzeichnungen aus den Jahren 1961 bis 1973 dokumentieren sein
+      Werden als literarischer und politischer Außenseiter im österreichischen Kulturbetrieb und
+      geben auch Auskunft über den vom Kalten Krieg geprägten Alltag und die gesellschaftliche
+      Atmosphäre im Linz der Nachkriegsära. Die digitale Edition ist mit umfassenden Informationen
+      zu Leben und Werk des Autors sowie Kommentaren zu zentralen Aspekten der Tagebücher
+      ausgestattet und ermöglicht über das Personen-, Orts-, Institutionen- und Schlagwortregister
+      schwerpunktmäßige Recherchen bzw. transversale Lektüren.</dc:description>
+    <dc:language>de</dc:language>
+    <dc:publisher>Institut Zentrum für Informationsmodellierung, Universität Graz </dc:publisher>
+    <dc:rights>Creative Commons BY 4.0</dc:rights>
+    <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+    <void:feature rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <void:vocabulary rdf:resource="https://gams.uni-graz.at/o:wiesinger.ontology#"/>
+    <void:vocabulary rdf:resource="https://gams.uni-graz.at/o:gams-ontology#"/>
+  </void:Dataset>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#E1962.1">
+    <schema:text> 1.1.1962 wieder ein jahr vorbei. es ist zwei uhr. wir sind etwa um halb acht uhr
+      früh von kain nach hause gekommen. es war ein turbulentes und lustiges fest. margit hat ein
+      grossartiges büffet ausgerichtet gehabt und sich grosse mühe gegeben. [...] vor einigen tagen
+      überraschend zu schanovsky. er spielt jetzt mit seiner frau ,mensch ärgere dich‘ nicht. in der
+      politik hat man ihn scheintʼs hinausgelehnt, oder will er selber aus opportunismus nicht mehr?
+      scheibenbogen, niveauloser krämerpoet, hat, wie man hört, sein ganzes privatkapital in die
+      mühlviertler heimatblätter gesteckt. publikation, die schon tot geboren wurde. er sitzt im
+      obus, ist bleich und träumt von unverdientem ruhm. die sprossen der leiter hält er in der
+      hand, aber die höhe wird er nie erreichen. [...] peru war eine kommunistische oligarchie. und
+      ein vorbildliches staatswesen (vor pizarros einfall). nur von den einfallenden spaniern wurde
+      das staatswesen als blutiger moloch geschildert (wie das heute die kreuzritternden amerikaner
+      mit dem kommunismus tun).16.000 kilometer strassennetz, alle zwei meilen eine kurier-station,
+      die nachrichten mit der geschwindigkeit von 400 km p j weitergab (auch rauchsignale). sie
+      standen zwar noch auf der neolithischen stufe und waren daher nicht fähig, ihr system und ihr
+      gesellschaftliches und politisches wesen weiterzugeben, aber all das war vorbildlich. die
+      bebauung des bodens war eine heilige handlung, der sich auch die herrscher nicht entzogen.es
+      gab dorfgemeinschaften (kolchosen), jeder bauer hatte bereits sein eigenes kleines
+      familiengrundstück. die arbeitsleistung wurde nach punkten eingeteilt und gewertet (je
+      schwerer, umso mehr punkte). die arbeit in den bergwerken gehörte zu den kürzesten.grundsatz
+      war, dass jeder arbeiten müsse, keiner aber zuviel arbeiten solle. not leiden war nicht
+      erlaubt, verpönt, darum niedrige sterberate, selbst beim strassenbau, der damals zu den
+      härtesten arbeiten gehörte.da niemand in peru reich werden konnte, konnte auch keiner arm
+      sein.was an werten da war, gehörte allen. und es gab keine private knappe mildtätigkeit,
+      sondern wenn not am mann war, wurde immer sofort und grosszügig vom gemeinwesen geholfen.
+      grosszügige massnahmen, die dem betroffenen keine erniedrigung brachten. ehrgeiz, habgier,
+      selbstsucht hatten in der brust des peruaners keinen platz.das strafgesetz unterschied nach
+      der standeszugehörigkeit. ein vergehen, das einem bauern nur einen verweis eintrug, konnte
+      einem mitglied der führerkaste das leben kosten.beim diebstahl wurde unterschieden, ob er aus
+      not oder habgier erfolgte. wenn aus habgier, dann folgte der tod, wenn aus not, dann
+      grosszügiger einbau des täters in die gemeinschaft. und der leitende beamte der gemeinschaft
+      wurde bestraft, weil er den täter verkommen liess. ritchie calder von der unesco-kommission
+      schrieb: das gesetzbuch der inkas kannte zwar drastische strafen, aber im grunde genommen ist
+      es ein appell an das gemeinschaftsgefühl und das volksgewissen.(alles aus tagblatt 23.12.61,
+      dr. herbert moritz über die präkommunistische andengesellschaft.)allerdings hat er übersehen,
+      dass erst die reife der industrie wirklich vermag, eine gesellschaft auf ethisch so hoher
+      basis mit vollendung zu schaffen. </schema:text>
+    <schema:dateCreated>1962-01-01</schema:dateCreated>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P50"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P240"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P11"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P137"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S8"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P241"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P242"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G215"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G215"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S6"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S117"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S37"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.institutions#I96"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#E1962.2">
+    <schema:text> 2.1. ea schrieb aus eibiswald. sie ist jetzt in bregenz.die nacht mit ihr auf
+      einer bank im schlosspark, unvergessen. sie wusste nichts anzufangen mit dem ding in ihrer
+      hand. gattenmord.die gattin ging gerne früh schlafen, und gegen neun kam, monatelang, wenn
+      auch nicht jeden abend, die freundin des mannes und vergnügte sich mit ihm nackend in der
+      küche, im bad und auf der wohnzimmer-couch. es muss beiden ein prickelndes gefühl gegeben
+      haben zu wissen, dass sie in ihrer paradiesischen nacktheit jederzeit während ihrer heftigen
+      verkehrstätigkeit von der angetrauten überrascht werden konnten. nun, eines tages geschah es,
+      und kam zum totschlag. aus ihrer scheide zuzelte er honig, aus ihrem after senf, von ihren
+      brustwarzen milch. besonders angenehm war es, die scheide mit hilfe eines dressiersackes mit
+      honig anzufüllen. das soll den verkehr enorm genussreich gestalten. </schema:text>
+    <schema:dateCreated>1962-01-02</schema:dateCreated>
+    <schema:mentions>ea</schema:mentions>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#">
+    <schema:text> 4.1. it hat sich in einen jungen schnösel verliebt, ihrer beider all und alles ist
+      das auto. gesprächsthema: der wagen läuft, er ist auffrisiert, er ist so schnell, dass es
+      keiner glaubt usw. der ball der bgs wird die wucht des jahrhunderts, sagt sie, während sie auf
+      und ab macht, auf mir sitzend. ich darf mich darüber nicht mokieren, weil ich nicht mehr
+      weiss, ob ich nicht auch so war. es kommt uns immer gleichzeitig. wir sind wundervoll
+      aufeinander eingespielt. ihr bekannter, rc, sandgasse, dichtet auch. er sagte z. b., den
+      wiesinger kenne ich. ein dramatiker ist er nicht. da bin ich besser.sie: aber er bringt seine
+      sachen an.er: er verstehtʼs, sich zu verkaufen. (so ein blödsinn.)der rc wird ja noch zeigen
+      können, was er kann. ll, der hässliche gnom, polemisiert gegen rn. diese ungute figur ist ein
+      schandfleck für linz mit ihrer bösartigkeit. überhaupt die linzer cliquen. ohne kommentar. ich
+      bin bei keiner mitglied. ah, dieser alte esel. das stück vom don perlimplin des garcía lorca
+      vermischt er mit seinen oberflächlichen kenntnissen aus dem spanischen bürgerkrieg und hat die
+      pietätlosigkeit, es mit der ermordung des garcía zu verquicken auf primitive art. was sind das
+      für menschen. das nennt sich ‚kulturredaktion‘. die alten weiss getroffen, eisenbahner. sie
+      waren ganz erstaunt, dass es mir in moskau gefallen hat. sie wissen über die sozialistischen
+      staaten nur, was sie aus dem tagblatt lesen und aus dem christlichen radio hören. und das ist
+      weniger als wenig, das ist viel vom gegenteil. abends bei willi pointner. ein vitaler mensch.
+      aber ich bin gesundheitlich nicht auf der höhe. bei lk gewesen. er ist fortschrittlich
+      orientiert. tut zumindest so. viele menschen reden einem ja nur nach dem mund, so dass es
+      wirklich immer schwerer wird, zwischen ehrlichkeit und verlogenheit zu unterscheiden. </schema:text>
+    <schema:dateCreated>1962-01-04</schema:dateCreated>
+    <schema:mentions>it</schema:mentions>
+    <schema:mentions>rc</schema:mentions>
+    <schema:mentions>rc</schema:mentions>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P194"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P194"/>
+    <schema:mentions>ll</schema:mentions>
+    <schema:mentions>rn</schema:mentions>
+    <schema:mentions>ah</schema:mentions>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G23"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S118"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S74"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G18"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S37"/>
+    <schema:mentions>lk</schema:mentions>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#E1962.3">
+    <schema:text> 16.1. abend bei stürzl mit bert brecht, mahagonny . kurt hat seine bücher
+      verkauft. wieder eine bresche in die mauer der vorurteile. bronnen, der auch manchmal lesungen
+      in meiner wohnung 1946 besuchte (zbonek, vera u. a.), war auch einmal mir zuliebe damals bei
+      stürzl. war das eine aufregung. der grosse bronnen.bei haills auf dem pöstlingberg wohnte ich
+      neben ihm, durch veras einladung. dg, die mich manchmal besuchte, schwitzte und roch wie junge
+      mädchen eben riechen von der achsel her und zwischen den beinen. schweiss, saure milch,
+      fleisch, rohes fleisch. av trug nie hosen unter dem rock und blitzte schwarz und rot in die
+      gegend. und im herbst kam ich zu bronnen in die redaktion als mitarbeiter. grete schmied als
+      neue assistentin. [...] ein russischer generalleutnant war da. vortrag wie der hollitschers
+      überfüllt.ein nazi sprach. wieso nazi? null mit führergehaben. eine dicke alte mäzenin
+      (möchtegern-mäzenin)herablassend sagte sie zu mir: sie schreiben auch? lassen sie mich doch
+      mal was lesen.seither ignoriere ich sie nicht mehr. </schema:text>
+    <schema:dateCreated>1962-01-16</schema:dateCreated>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P109"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P66"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P85"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P109"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P85"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P195"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P85"/>
+    <schema:mentions>dg</schema:mentions>
+    <schema:mentions>av</schema:mentions>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S75"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T5"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P30"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#E1962.4">
+    <schema:text> 26.1. [...] f. j. heinrich gibt sich immer als maturant der arbeitermittelschule
+      aus, so wie hugo schanovsky als verteidiger von berlin. diese burschen, rätselhafter
+      geltungstrieb. dabei unsinnig und erbärmlich. it bekam schreikrampf, weil einmal das wort
+      kommunismus fiel. sie gibt sich immer so weltoffen, aber die offenheit wird bald begrenzt und
+      verdunkelt. reicht kaum über die grenzen ihrer eigenen person. kommunismus macht diese
+      würstchen alle bleich und lässt sie stammeln und lallen. darum flüchten sie gerne in die
+      irrealität, in die metaphysik. dort gibt es oberflächliches geplapper, das keiner
+      kontrollieren kann. fällt ein handfestes argument, dann sind sie beleidigt. rd gibt sich seit
+      neuestem gerne als dr. der theologie aus. auch so ein fall. ich komme mir mit allen diesen
+      unfertigen kreaturen manchmal wie ein mensch im zoo vor, umgeben von seltsamen und exotischen
+      tieren. muss amerika, das grosse, sich vor dem kleinen kuba fürchten? was soll das rühren der
+      kriegstrommel? oder ist es die idee, die das reiche land bange macht. lb und rr heiraten in
+      diesen tagen. beide, weil ihre mädchen schwanger sind. was kafka im process geschrieben hat,
+      sind nur reflexionen seines kranken gehirns auf seine erfahrungen mit verlegern. das eigene
+      suchen, herumgeschickt, vertröstet, irregeführt, enttäuscht werden. man hat dann daraus, weil
+      man die speziellen nöte des schreibenden nicht berücksichtigte, die ‚grosse literatur‘
+      gestempelt. allerlei hintergründiges, metaphysisches hineingelegt. religiosus – bedenken,
+      ängstlich, voller zweifel.katholisch – allgemein, über die ganze welt hin. hugo schanovsky ist
+      wieder einmal überall zu finden. preis der steirischen landesregierung, peter-rosegger-preis,
+      an den nazisänger bruno brehm. die mörder sind unter uns.und die sänger des mordes und der
+      mörder erst recht. der film über dimitroff – gut gemacht, wirksam zusammengestellt, welch eine
+      familie. drei söhne in kerkern und lagern der reaktion erschlagen.während der feier fiel thal
+      ernstl um. er wurde weiss wie eine wand. nazis gibt es zwei sorten: die reinen gläubigen
+      dummköpfe und die zyniker. dazwischen das grosse heer derer, die zwischen dummheit und
+      zynismus alle schattierungen spielen. </schema:text>
+    <schema:dateCreated>1962-01-26</schema:dateCreated>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P13"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P11"/>
+    <schema:mentions>it</schema:mentions>
+    <schema:mentions>rd</schema:mentions>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S6"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S6"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T1"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G21"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G34"/>
+    <schema:mentions>lb</schema:mentions>
+    <schema:mentions>rr</schema:mentions>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P107"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S76"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P11"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P243"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S119"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P122"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#">
+    <schema:text> 10.2. krapp oder das letzte band in der galerie koller-beyvl. hervorragende
+      leistung adolf laimböcks. heri heinz als ‚kritiker‘ beim volksblatt macht auf kühl.und da soll
+      man linzer zeitungen lesen, wenn man weiss, welch geistes kinder die ‚kulturredakteure‘ sind!
+      schwere weststürme. (Anm.: Nummerierung beginnt hier von Neuem) ZWERGRIESEN. in frankreich
+      blieben am 13.11. alle räder still stehen. züge, autos, büromaschinen. ein gewaltiger
+      trauerzug setzte sich in bewegung nach père lachaise, um die opfer des polizeiterrors zu
+      beweinen. de gaulle scheint von der gleichen ‚eisernen schwäche‘ wie schuschnigg befallen.
+      überall, wo bürgerliche kanzler am werk sind und in den händen der reaktion zu wachs werden,
+      dort tauchen diese leute auf, die es zwar gut meinen, aber keinen weg wissen. und immer werden
+      sie eher der rechten nachgeben als der linken, auch wenn es viele, viele menschenopfer kostet.
+      denn das sind linke. und nächstenliebe verlangt das christentum nur für die konservativen und
+      gläubigen menschen, nicht für kommunisten oder sozis. warum gibt es keine grossen verbrecher
+      mehr? weil diese naturen alle ihre triebe im ‚grossen geschäft‘ befriedigen können. in usa
+      begann es, als al capone und andere grossgangster im geschäft mehr sicherheit sahen und ihre
+      verbrechen unter dem schutz der bürgerlichen gesetze einträglicher wurden. b. b. was ist ein
+      einbruch in eine bank gegen den besitz einer bank? was ist ein dietrich gegen eine aktie?
+      [...] einer erwirbt das vertrauen von hunden und katzen, dann erwürgt er plötzlich die
+      ahnungslosen, die sogar den würgegriff vertrauensvoll erdulden.er lernt ein mädchen kennen und
+      macht mit ihr das gleiche. sartre kann sich nur schwer mit dem gedanken abfinden, ein sänger
+      des proletariats zu werden. andererseits weiss er, dass es seine aufgabe ist, das ekelhafte
+      bürgertum zu zerstören.sicher fiel es auch einem sänger der aristokratie nicht leicht, sich
+      auf das bürgertum umzustellen, selbst wenn er schon am grab der feudalen mitschaufelte. [...]
+      briefmarken sammeln, basteln, kleingärtnerei, auto waschen sind das wesen der destruktiven
+      vollendung. heri heinz hat ‚diesen wisch‘ der antiatomgruppierung, in dem der wahnsinn des
+      atomkrieges angeprangert wird, sofort in den papierkorb geworfen.sind das noch menschen? oder
+      bloss dummköpfe? fanatismus, leidenschaft der dummköpfe.gemütlichkeit, leidenschaft der
+      schwachen. heinz rief an: hast du gelesen, was ich über krapp geschrieben habe? diese
+      eitelkeit wegen eines jeden satzes, den sie schreiben. faschismus – die solidarität der
+      bösartigen unschuld. le, weite weiche landschaft ihres körpers. nichts flaches. meine
+      sturmangst scheint bezähmt. ich fürchte nicht mehr niederstürzende häuser. [...] in budweis
+      heisse diskussionen um die sozialreformen josefs II.und um die 90% nazi.die rente wurde um 32
+      schilling gekürzt, der mietzins dagegen um 20 schilling erhöht. ein ‚geschäft‘ von 50
+      schilling.und so geht es millionen, bloss sie merken es nicht, weil sie so restlos glücklich
+      sind, wie sie immer in den bürgerlichen zeitungen lesen und im bürgerlichen rundfunk hören
+      können. [...] ar liess sich am gesäss die sommersprossen entfernen. sie musste mit angezogenen
+      beinen liegen und dem arzt ihre intimsten körperstellen zurecken, was sie erregt haben dürfte.
+      die schwester erzählte mir von der erektion. alles blühte auf. der assistent und ich, wir
+      sahen wie gebannt zu. auch die schwester. nachher wurde sie ohnmächtig vor scham und lust. rw
+      im theater getroffen mit einer netten schlanken freundin in blond. friseurin? als kommunist
+      steht man immer in der hkl. das macht das leben spannend, unterhaltsam und sinnvoll. die
+      etappen, aus denen wir versorgt werden, sind china, die su und andere sozialistische staaten.
+      die alte sozialdemokratie hat sich geistig selber überwunden. was immer heute geschehen mag,
+      wie schwach die kpö auch ist, der kommunist steht auf seiten der menschlichen,
+      wirtschaftlichen, politischen und kulturellen sieger. </schema:text>
+    <schema:dateCreated>1962-02-10</schema:dateCreated>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P244"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P62"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S13"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S120"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T2"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P40"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P196"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G216"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G35"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P245"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P66"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G21"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P38"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P62"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P62"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S13"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T2"/>
+    <schema:mentions>le</schema:mentions>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P198"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G33"/>
+    <schema:mentions>ar</schema:mentions>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8"/>
+    <schema:mentions>rw</schema:mentions>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G19"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S121"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.institutions#I11"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.institutions#I3"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T4"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#E1962.5">
+    <schema:text> 8.3. immer noch saukalt. elende geldverhältnisse. opferrente in sicht.
+      schulden.ausschreibung der oö. landesregierung für dramatik. aber der autor soll nicht älter
+      sein als 40. das träfe genau auf mich zu. ob ich diesmal die 10.000 bekomme oder ob sie wieder
+      einen dreh finden, den preis irgendeinem kleinen ehrgeizling zu geben, der auf ihrer seite
+      steht. oder nur um mir eins auszuwischen, der ich ihr grösster feind bin.ausserdem sind die
+      10.000 ohnehin schon wieder entwertet. wichtig für spannung wie bei o. henry ist die
+      kontrapunktik und die mehrfachen höhepunkte. </schema:text>
+    <schema:dateCreated>1962-03-08</schema:dateCreated>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T7"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P246"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#">
+    <schema:text> 10.3. drei schwestern von tschechow gesehen. ein herrliches, schwermütiges stück.
+      wie tschechow die perspektiven vorausahnt: es wird keinen menschen mehr geben, der nicht
+      arbeitet. alle werden glücklich sein ... sonntag susanne polsterer kennen gelernt in
+      ebelsberg. eine nette, bezaubernde frau. </schema:text>
+    <schema:dateCreated>1962-03-10</schema:dateCreated>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P199"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P199"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S80"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#">
+    <schema:text> 18.3. ea war da und läutete schon früh um sieben sturm. dann rief sie immer wieder
+      an, ich sollte auf den bahnhof kommen. sie gab mir damals in eibiswald nichts als eine kurze
+      berührung zu ihren gunsten. ich ging leer aus. diesmal sie. späte rache.am 20. kam ein böser
+      brief: du schuft, du schwein usw. bk hat ir verlassen und wurde vom vater auf die strasse
+      gesetzt. yp ist geschieden worden. auch er irrt herum. beide wegen anderer frauen. sind noch
+      nicht dahintergekommen, dass nichts besseres nachkommt. man richtet sich besser ein auf das,
+      was man hat. [...] elende zeiten. bin mit roman auf seite 570. wenig geld für farbband und
+      papier. versetze morgen die schreibmaschine, weil die hundesteuer bezahlt werden muss. und der
+      gaskassier kommt. in den o.ö.n. vom 31. beweist ld, dass man froh sein muss, wenn der friede
+      über zwei generationen anhält. kriege sind so unausbleiblich wie gewitter.damit aber die angst
+      nicht unnötig vergrössert wird, heisst es jetzt, bestünde keine atomgefahr. und solche art
+      menschen, ignoranten und antihumanisten, haben heute wieder die ganze folgsame bürgerliche
+      welt in der hand, die sich immer mehr orwells vision nähert: wunschdenken, zwiedenken und auf
+      befehl einheitsdenken. und der grosse bruder denkt für sie alle. (ich bin ein freier mensch,
+      ich habe keine ahnung.)und der böse feind, der alle diese nullen bindet, ist der kommunismus.
+      perversitäten der verschiedensten art sind nur möglich bei einer sexuellen
+      interessengemeinschaft, die schon lange dauert. neue partner haben nur die vereinigung und das
+      normale im sinn. die variationen kommen später.eine ehe hingegen ist nur mit militärischen
+      gesichtspunkten zu beurteilen und zu erhalten. angst oder unlust, das gilt nicht. wo käme man
+      hin, wenn alle desertierten? natürlich wird eine ehe eintönig, vor allem das rein fleischliche
+      betreffend. andererseits macht man sich selber was vor, wenn man dem solch grosse bedeutung
+      über das vierzigste lebensjahr hin beimisst. und rasche triebbefriedigungen lassen sich so
+      nebenbei doch finden. dazu ist es nicht nötig, eine an sich harmonische bindung, die man
+      gewohnt ist und die häusliche ordnung und frieden sichert, aufzugeben. wenn jeder soldat
+      davonliefe? wo bliebe da der sieg im lebenskampf? wie soldaten haben ja auch ehepartner ihre
+      freien stunden. in welchem land lebe ich? unter verrückten? ew redet in den oön von einem
+      überholten pazifismus. und dass junge menschen dafür anfälliger seien. auch borchert ist heute
+      nicht, was wir brauchen.so was nennt sich kulturträger. er hat nichts dazugelernt. ein
+      typischer vertreter der bürgerlichen welt. engstirnig, unbelehrbar, kriegerisch. und ein mit
+      dem titel die zeit versehener werbefilm zeigt panzer und lässt den text vernehmen: wenn wir
+      stark wären, würden auch starke gegner sich scheuen, uns anzugreifen.als ob wir seit
+      jahrhunderten schon von jemandem angegriffen worden wären ausser von den piefkes. oder immer
+      selber angreifer waren. roman fertig. ich bin entspannt. ertrage wieder jedermann. sogar den
+      viel redenden. ye. er ist wie ein spiegel, der sonnenstrahlen reflektiert, ohne selber heiss
+      zu sein. er reflektiert wissen, ohne selber welches zu haben. kleinschmidt hat heinrich für
+      den maerz vorgeschlagen. der liebe ernsthaftling heinrich möchte in ‚die gute gesellschaft‘
+      aufsteigen.auf die frage, was heinrich denn aufzuweisen hätte, hat er erklärt: ein
+      gedichtbändchen im linzer kulturverlag. kain aber gedenkt keiner zu empfehlen. </schema:text>
+    <schema:dateCreated>1962-03-18</schema:dateCreated>
+    <schema:mentions>ea</schema:mentions>
+    <schema:mentions>bk</schema:mentions>
+    <schema:mentions>ir</schema:mentions>
+    <schema:mentions>yp</schema:mentions>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S11"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T7"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P200"/>
+    <schema:mentions>ld</schema:mentions>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S81"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S6"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P202"/>
+    <schema:mentions>ew</schema:mentions>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S81"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P63"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P13"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P13"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P13"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P50"/>
+    <schema:mentions>ye</schema:mentions>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S11"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.institutions#I6"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T7"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#E1962.6">
+    <schema:text> märz 62 landesregierung lehnt gesuch um 500 ös ab. hätten mir angeblich im vorjahr
+      2000 gegeben. schade. kein geld, roman zu verschicken. in der au liebespaar am werk
+      überrascht. es hat etwas rührendes und bezauberndes, menschen beim geschlechtlichen verkehr zu
+      sehen, nichts ekelhaftes oder hässliches (ausser für neidhammeln). man möchte lange zusehen
+      und alles miterleben, das ist die erste reaktion, ehe man sich taktvoll und vielleicht
+      unangebracht entschliesst, weiterzugehen und zu tun, als wäre nichts gewesen. die dame sah nur
+      mit brechenden augen herüber, hatte aber weder zeit noch kraft, entrüstet oder erschreckt zu
+      sein. nur lust stand in ihren sterbend brechenden augen. weinheber, der kleinbürger ohne
+      tiefere bildung, und hitler konnten sich dem sog von unten nicht entziehen. weinheber war
+      lebenslang von menschen umgeben, die er seine freunde nannte. menschen ohne innere
+      dimensionen, mit spiritueller potenz, kleinbürger der kultur.er kannte keine fremdsprachen
+      ausser den mühsam und spät erlernten antiken sprachen. er ist binnenmensch. er sucht nur
+      menschen, mit denen er trinken und reden kann. es gibt kaum eine provinziellere erscheinung
+      als ihn. vielleicht hat diesem wiener spiesser deshalb der kitsch und das kleinbürgertum
+      seiner engeren heimat soviel gegeben.darum spricht er die sprache der leute, die sich an den
+      wein klammern, aber er ist besessen, die sprache der hochkultur zu erlernen. alle seine
+      gedichte sind versuche, die versäumte matura nachzuholen. (als ob das so wichtig wäre?) es den
+      schulfüchsen zu zeigen. und in der form der hochsprache sagt er nun dinge aus, die der welt
+      der dienstmädchen angehören (friedrich heer). [...] </schema:text>
+    <schema:dateCreated>1962-03</schema:dateCreated>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T7"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P203"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P128"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P203"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P204"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#E1962.7">
+    <schema:text> 9.4. sozialistischer frauentag im landestheater. text hugo. einstudierung rosl
+      neyder. alles recht gut und lieb gemeint. die bösen von links und rechts wollen nicht den
+      frieden, aber wir, wir sozis ... wir allein sind imstande, den frieden zu erhalten (wenn wir
+      nicht gerade für den krieg stimmen, und wärʼs mit dem kaiser). gut war das maschinenballett.
+      pathetisch, teigig, dick aber der text (hugos ‚festgedicht‘). gut bürgerlich, der chor auf
+      ‚schön‘ zurechtgemachte alte männlein und weiblein, für die not immer romantik schien. neue
+      spiele der ‚gesellschaft‘. nach pfeffer in arsch blümlein in loch. hugo lässt in
+      sbz-veranstaltungen kriegsverbrecher reden. wie sie alle unter einer decke stecken. dieser
+      claus mahnert oder wie er heisst, hauptsache antikommunist. dann ist er schon unser ‚freund‘. </schema:text>
+    <schema:dateCreated>1962-04-09</schema:dateCreated>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P11"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P11"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P11"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.institutions#I21"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#E1962.8">
+    <schema:text> 12.4. lese wieder helen dreisers mein leben mit dreiser. seicht, als schriebe
+      gerdl über heri. aber ganz interessant.z. b. das treffen mit churchill. dieser meinte, dreiser
+      sähe russland falsch, er selber gäbe russland höchstens noch sieben jahre. dann wäre alles
+      vorbei. dreiser kritisierte den sozialen standard in england. darauf churchill: wir sind
+      willens, die hälfte des nationaleinkommens dafür zu verwenden.drauf dreiser: sie mögen willens
+      sein, aber tun werden sie es nicht. das war es, was teddy wollte. gerechtigkeit für alle
+      menschen der welt. er fühlte, dass er in dem russischen experiment den ersten praktischen
+      schritt zu diesem ziel gesehen hatte. bei puluj gewesen. er servierte einen puppenspieler aus
+      münchen. geboren in kiew, emigriert. versteht es meisterhaft, seine hände zu beleben. und
+      allerlei andere gegenstände. er hätte diese fähigkeit in den langen jahren seiner
+      gefangenschaft (unter den roten, klar) erworben. diese biederen leutchen hetzen wirklich immer
+      und überall ohne jedes schamgefühl, so tief ist der hass gegen den kommunismus. anwesend waren
+      oberhuber, kasten, ritter, huala uam. der camping-volkswagen gefällt uns. damit könnte man
+      ziellos und planlos herumfahren in der gegend. kitschige lieder von weissen haaren im radio.
+      diese weisheit stammt noch aus einer zeit, da der junge mensch wirklich nur von den älteren
+      seine weisheit beziehen konnte. das tier vom leittier. das ist durch die allgemeine
+      schulbildung überholt. der junge mensch lernt immer mehr, als der schon alternde weiss. und
+      die lebensklugheit hat keinen kurswert, die selber zu erwerben legt der grösste dummian
+      leidenschaftlichen wert darauf.gerade heute, wo die älteren und ältesten immer die am
+      geistlosesten dahinfaulenzenden sind. im schrebergarten. mit wenigen ausnahmen. warum
+      ehrfurcht vor solch weissem haar? in dummheit ergraut? geschäftsmann heinrich, dichter, hat
+      bei korb eine liste aufliegen, nach der immer gewisse kunden mit seinen werken versorgt
+      werden. meine armeen: die kurzgeschichten sind stosstrupps, die immer weniger mit blutigen
+      köpfen zurückkommen, sondern den boden für grössere schlachten bereiten.schauspiele sind
+      besatzungstruppen. schnelle offensiven sind mit ihnen nicht zu machen. nur für
+      occupationszwecke.der roman: schwere waffe. hält die stellungen. panzer, schlachtenkreuzer.
+      hörspiele: luftwaffe. schlecht bestellt. kann ein dichter oder selbst ein schriftsteller
+      schreiben, ohne die welt zu kennen?heutzutage kann ein mensch, der schreiben will, überhaupt
+      nicht auskommen ohne die kenntnis des kommunismus, marxismus.auf ihn verzichten heisst, sich
+      der modernsten geistigen mittel begeben. als wäre man gegen jedes moderne auto, um einen alten
+      ford zu fahren. man möchte die radiogebühren erhöhen, anstatt die 70 parasiten aus den
+      länderstudios hinauszuwerfen. sie witzeln, schmusen, greifen den hübschen radiodamen in die
+      intimsphären und sind sehr vergnügt, da sie für wenig leistung viel bezahlt bekommen.
+      zwischendurch legen sie wieder ein plättchen auf den teller und sprechen ihre klerikalen
+      meldungen und einfälle durch. die schwarze pest hat sich unheimlich ausgebreitet bei uns, weil
+      die sozis nicht entschieden genug dagegen auftreten. ich kann mir vorstellen, dass es in den
+      usa leute gibt, die gegen das lynchen und den mord durch polizei und fbi sind, weil ja solche
+      praktiken die arbeitskräfte hinwegraffen. brutalität und intelligenz? jetzt haben wir susi
+      schon zwei jahre lang. ein ganz entzückendes tierchen. sie fährt sehr gerne roller, das kleine
+      pekinesenfräulein. wenn es heiss ist, geht sie ungern zu fuss, wenn ich an der schreibmaschine
+      sitze, ist sie brav still. wenn ich aufhöre zu schreiben, will sie spielen. sie ist sehr
+      aufmerksam, hört auf jedes wort. ich ging mit ihr heim, wegen müdigkeit. als ich aber die
+      tasche nahm, in der sie, auf den roller gehängt, sitzt, wurde sie wieder ganz lebendig und
+      lustig.sie bellt matrosen, zigeuner, alte leute an. menschen, die ärmlich gekleidet sind. also
+      kein sozialistischer hund. oder doch? denn sie mag armut nicht.wenn eva mit dem einkaufskorb
+      loszieht, reisst sie sich auch nicht drum mitzukommen. sie weiss schon, dass das nur strapazen
+      bedeutet. die sonne spiegelt sich im strom. der bagger scheppert gleichmässig. plötzlich rennt
+      sie wie der blitz los über die wiese. sie hatte vergessen, dass ich hinter ihr war und wähnte
+      mich vorne. ganz ‚in gedanken‘. sie ist klug und auf entzückende weise frech und präpotent.
+      erst seit ich kommunist bin, habe ich denken gelernt und verschiedene untugenden abgelegt wie
+      neid, wütend werden, böse sein. der kommunismus hilft denken lernen, lehrt auf jede frage eine
+      antwort zu suchen. der antikommunismus oder eine geisteshaltung, die ‚rechts‘ steht, schläfert
+      ein, macht denkfaul, zum blinden nachredner der propagandaparolen, die man aus den
+      bürgerlichen zeitungen empfängt. die leutchen empfinden es nicht so. sie nennen das ‚freiheit‘
+      und tun dürfen, was sie wollen. dabei tun sie nur, was ‚die‘ wollen. sie sind alle sklaven und
+      hiwis der millionäre, die mehr und mehr anwachsen. 1955 gab es 600 millionäre in österreich.
+      jetzt gibt es schon bald zehntausend. zw ist so ein bedauernswertes produkt des american way
+      of life. engstirnig, kurzsichtig, brutal. zw: unternehmer müssen hart arbeiten und sehr
+      gescheit sein. zw: klassen gibt es doch nicht mehr. zw: (bezgl. antreiberei in kaufhäusern)
+      das ist doch wurscht, ob eine verkäuferin etwas verkauft. zw: über die aktien: das sind arme
+      hunde, die aktienbesitzer. man verdient damit kaum was. die paar schillinge im jahr.weltfremd,
+      hat er keine ahnung von der arbeiterschaft und deren welt. kein wunder, dass solche leute in
+      einer sozialistischen zeitung die sp-genossen so verdummen können. wie dumm, wenn ein
+      normalverdiener seinen ‚schönsten anzug‘ anzieht. schon daran müsste er erkennen, dass er im
+      grund ein armer teufel ist. zum guten anzug gehört der tolle wagen, die villa, das scheckbuch,
+      nicht die guten sitten allein oder das brave verhalten, nichts zu sagen, was offiziell verpönt
+      ist. der marxist kommt nicht nur von links.die waffe der gehirnwäscher ist sympathie. ihr ziel
+      die überredung. die methoden zur stählung des widerstandes gegen die gehirnwäsche sind
+      unzulänglich und bewirken das gegenteil. es gibt kein besseres opfer für den gehirnwäscher als
+      eines, das greuel erwartet. ein kommunist ist ein geschulter marxist. ,marx̕ erster grundsatz:
+      man muss das system, das man bekämpft, studieren. der 2. grundsatz: man muss verständnis haben
+      und es von innen sehen. im manifest überzeugt er durch seine sachkenntnis und schafft eine
+      günstige atmosphäre, indem er der bourgeoisie glühende anerkennung zollt, die ihr wohl nie
+      zuteil worden wäre. allerdings nur für den abschnitt der geschichte, für den sie zuständig
+      war.das ist gehirnwäsche. und diese methode, nicht folterungen, misshandlungen,
+      einschüchterungen haben geschulte marxisten stets angewandt. mit alten soldaten sprachen sie
+      als alte soldaten. mit eltern liebevoll über ihre kinder und ehrerbietig von ihren frauen. mit
+      amerikanern sprachen sie von der herrlichen verfassung amerikas, mit arabern über
+      nationalismus und mit bischöfen über gott.wie partisanen einer intellektuellen kolonne bringen
+      sie uns auf ihre seite, indem sie ganz gemächlich auf die unsere schlendern. ihre gefahr liegt
+      in ihrem beifall, nicht in ihrem fluch. die marxistische technik fordert nämlich nicht kraft,
+      sondern verstand. was zählt, ist die kenntnis des gegners und die fähigkeit, seine position
+      verständnisvoll zu sehen.wir sollten vom kommunismus und seinen leistungen so viel wissen, wie
+      marx vom kapitalismus wusste.‘alles aus die überentwickelten nationen , leopold kohr. econ-v.
+      mit absicht hohe kunst zu machen, diese absicht ist im grunde eine zutiefst kleinbürgerliche,
+      provinzialistische absicht. ausdruck eng persönlichen ehrgeizes.und so flüchten sie in
+      gefilde, wo vielleicht grösse daheim ist. ins chinesische, ins asiatische, ins ferne, fremde.
+      und wäre doch die wahre grösse darin, das grosse bei uns zu sehen. solch ein bewusster start
+      verrät die kleinheit des startenden.der wahre künstler arbeitet aus lust, aus drang. er kann
+      nicht anders. und machte er stümperhafteste arbeiten, er muss schaffen. und aus diesem boden
+      wachsen dann die wahrhaft grossen werke, die für ihre zeit stehen. er weiss, was er kann, alle
+      können ihn beobachten, schmälern und heruntersetzen. us-amerikaner versprühen gift über
+      vietnam. ostern griffen erstmalig us-hubschrauber ‚in die kämpfe ein‘. und gleich auf die
+      brutalste faschistische art. quant a moi, ich lernte erst durch den marxismus denken. ich kann
+      das ohne weiteres zugeben. vorher lebte ich wie ein tier, dumpf wie alle andern in diesem
+      ‚glücklichen‘ österreich. machte alle empörenden verbrechen mit, indem ich sie niemals
+      anprangerte, sondern heimlich darüber lachte, mich freute. wie unmenschlich man wird als anti.
+      weil nur noch der ‚sportliche ehrgeiz‘ zählt. die vormilitärische erziehung ist auch nur ein
+      abwälzen eines teils des wehrbudgets auf die eltern. die kinder kommen mit besserer kondition
+      zum heer. liebe, dieses zauberwort, soll nur dazu dienen, das abstossend ‚vernünftige‘ des
+      nachwuchszeugens zu romantisieren. wem verginge nicht ‚alles‘, wenn er auf kommando nachwuchs
+      zeugen sollte? antikommunismus und lüge gehen hand in hand. man sieht das wieder im
+      zusammenhang mit burgess und maclean, über die man heimkehrwünsche lanciert, um die rückkehr
+      von golob zu neutralisieren. </schema:text>
+    <schema:dateCreated>1962-04-12</schema:dateCreated>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P247"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P205"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P247"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P247"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P205"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P247"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P206"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G24"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G217"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S6"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P13"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T2"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T7"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S6"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S468"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T6"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G21"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.institutions#I10"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P224"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S6"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T1"/>
+    <schema:mentions>zw</schema:mentions>
+    <schema:mentions>zw</schema:mentions>
+    <schema:mentions>zw</schema:mentions>
+    <schema:mentions>zw</schema:mentions>
+    <schema:mentions>zw</schema:mentions>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.institutions#I2"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T1"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P225"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P225"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P209"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G21"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S245"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S6"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S469"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S122"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T6"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G14"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S468"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T1"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P247"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P249"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P158"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#E1962.9">
+    <schema:text> ostern 1962 niemals hätte ich gedacht, dass ich jemals wieder auf eigenen füssen
+      auf die gradenalm gelangen könnte. und ich habe es geschafft. sehr langsam und mit grosser
+      anstrengung. aber es hat sich gelohnt. unterstützt wurde das unternehmen durch die lückenhafte
+      erinnerung, die mir den weg so leicht vorspiegelte, wie er ‚damals‘ war. damals ging ich 45
+      bis 50 minuten.diesmal mehr als vier stunden. wir tranken oben literweise almdudler, eiskalt.
+      susi, das tapfere kleine tierchen, war die ganze zeit ebenfalls auf ihren eigenen beinchen.es
+      war heiss, es war steil, es war schlammig, schneeig. aber immer riss mich und meine
+      fusstruppen eva und susi der wille vorwärts und der glaube, um die nächste ecke wäre die alm.
+      aber es zog sich und zog sich. und oben, nach den mehreren litern schiwasser, auf die heissen
+      felsen und blick ins tal. susi auf vorgeschobenem posten, dieser tapfere kleine
+      gebirgspekinese. moskau wieder gesehen im zentral-kino.die ersten worte: sie: liebst du? er:
+      ich liebe!und die letzten worte: er: liebst du? sie: ich liebe! </schema:text>
+    <schema:dateCreated>1962-04</schema:dateCreated>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.persons#P224"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T5"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+  <wiesinger:Entry rdf:about="https://gams.uni-graz.at/o:wiesinger.1962#">
+    <schema:text> 24.4. wieder kein körnerpreis. wenn die ‚gutmütigen‘ macht über andere haben, dann
+      werden sie brutal, denn die dummheit der gutmütigen (deren leidenschaft gemütlichkeit ist)
+      lässt ihnen keine andere wahl. ee unvergesslich, wenn auch nicht so wie eh letztere war nur
+      geschlecht von den augen bis zu den kniekehlen. da sprühte alles von wahrer, echter lust. man
+      hatte nie das gefühl, diese frau opfert sich, ist gleichgültig, sondern immer hatte man das
+      gefühl, man beglückt sie, wie man nicht mehr jemanden beglücken kann. das ist das wunderbare.
+      sie war ein sprühendens, buntes, farbig glühendes bad. ein weib, geöffnet für das gute und
+      herrliche.bei der gi war alles oberflächlich. sie liebte egoistisch. bei der ee alles nur
+      angst, zuwenig zu haben. eh gebrauchte ihren körper und ihren geist und das spezifische gerät
+      raffiniert wie ein chirurg, wie ein goldschmied und überall. wald, kirche, eisenbahn, neben
+      eltern und neben fremden. und sie strahlte immer glücklich (57–50).mit gi schachspiel in au im
+      türkensitz (unbekleidet und in heisser sonne) (47–53).erinnerungen in zusammenhang mit
+      gradenalm an zaunried, den kasperl. schachermeyer, den intriganten. an heissen tagen mit den
+      fahrrädern unterwegs. aufstieg, spass im heu mit mädchen. marsch zum törl. und davor, ich
+      meine vor uns liegend der krieg mit all seinen ungewissheiten. und ringsum tobte er bereits.
+      spazierfahrt durch die südwestliche peripherie von linz. da gibt es elendsviertel.
+      bretterhütten, arbeitssklaven, arme teufel.daneben kirchen, deren wert in die zehn und zwanzig
+      und dreissig millionen geht. ein haus mit 50 wohnungen könnte man jetzt um 7 millionen bauen.
+      aber das hilft ja nicht zur macht. und macht allein ist wichtig, denen, die von nächstenliebe
+      reden.fährt man in die su, dann kommen die kleinen kläffer wie zw und sagen: man zeigt euch ja
+      nicht alles.wer zeigt den touristen bei uns diese lager? oder in wels, lichtenegg?wie sagt ein
+      privatmann, wenn er einem anderen auf die zehen steigt? aha, pardon, entschuldigens. und
+      ähnlich.selbstkritik. und die selbstkritik in der komm. partei ist nicht viel anders. man
+      entschuldigt sich für einen groben fehler, den man gemacht hat.aber da hebt das wehgeschrei
+      der speichellecker an. </schema:text>
+    <schema:dateCreated>1962-04-24</schema:dateCreated>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.terms#S91"/>
+    <schema:mentions>ee</schema:mentions>
+    <schema:mentions>eh</schema:mentions>
+    <schema:mentions>gi</schema:mentions>
+    <schema:mentions>ee</schema:mentions>
+    <schema:mentions>eh</schema:mentions>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T8"/>
+    <schema:mentions>gi</schema:mentions>
+    <schema:mentions>zw</schema:mentions>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G23"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.places#G218"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.institutions#I11"/>
+    <schema:mentions rdf:resource="https://gams.uni-graz.at/o:wiesinger.institutions#I3"/>
+    <wiesinger:note rdf:resource="http://gams.uni-graz.at/context:wiesinger?mode=kommentar#T3"/>
+    <gams:isPartOf rdf:resource="https://gams.uni-graz.at/o:wiesinger.1962"/>
+    <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:wiesinger"/>
+  </wiesinger:Entry>
+</rdf:RDF>
